@@ -1,0 +1,11 @@
+/** Compatibility barrel: existing `@/api` imports continue to work unchanged. */
+export * from '@/types/api'
+export { ApiError, toApiError } from '@/utils/api-error'
+export { authApi } from '@/api/auth'
+export { userApi } from '@/api/user'
+export { kpApi, subjectApi } from '@/api/catalog'
+export { questionApi } from '@/api/question'
+export { questionRecognitionApi } from '@/api/question-recognition'
+export { aiApi, recommendApi, variantApi } from '@/api/ai'
+export { practiceApi, reportApi, reviewPlanApi } from '@/api/learning'
+export { announcementApi, messageApi } from '@/api/communication'

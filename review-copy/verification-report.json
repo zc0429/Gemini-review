@@ -1,0 +1,18 @@
+{
+  "pass": true,
+  "files": 747,
+  "bytes": 46720795,
+  "MB_decimal": 46.7208,
+  "original_files_hash_verified": 736,
+  "original_materials_preserved": 20,
+  "drive_pdfs_hash_verified": 2,
+  "thesis_image_references_resolved": 28,
+  "old_history_included": false,
+  "gemini_actual_import_tested": false,
+  "repository_url": "https://github.com/zc0429/Gemini-review",
+  "prepublication_repository_check": {
+    "public": true,
+    "empty": true,
+    "push_permission": true
+  }
+}

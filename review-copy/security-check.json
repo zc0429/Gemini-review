@@ -1,0 +1,59 @@
+{
+  "checked_at_utc": "2026-11-14",
+  "status": "prepublication_checks_passed",
+  "sensitive_credentials_found": 0,
+  "methods": [
+    "Gitleaks v8.30.1 direct-directory scan, nested archive depth 3 and decode depth 3",
+    "Gitleaks on extracted PDF text and all DOCX/XLSX XML text",
+    "Review of 147 credential/configuration context lines",
+    "Email, phone, student-number pattern checks and contextual triage",
+    "English OCR of 73 PNG screenshots/figures; two contact candidates visually inspected"
+  ],
+  "direct_scan": {
+    "candidate_findings": 81,
+    "all_false_positives": true
+  },
+  "extracted_text_scan": {
+    "candidate_findings": 81,
+    "sha256_integrity_digests": 57,
+    "bibliography_keys": 24,
+    "unclassified": 0
+  },
+  "image_scan": {
+    "images": 73,
+    "ocr_errors": 0,
+    "credential_candidates": 0,
+    "contact_candidates": 2,
+    "disposition": "Two original UI fixture images contain demonstrative example email addresses, verified against mock fixtures/prototype; retained unchanged."
+  },
+  "configuration": "No actual .env, production credentials, private key files, Git credentials or database dumps. Environment references and explicit placeholder/test fixtures remain verbatim as part of complete source. Seed/demo passwords are synthetic fixtures, not deployment credentials.",
+  "personal_contacts_excluded": [
+    "AGENTS.md",
+    "README.md (original)",
+    "docs/notes/进度记录.md",
+    "docs/notes/Windows开发环境与启动说明.md"
+  ],
+  "other_pattern_dispositions": [
+    "Numeric runs in SHA-256 digests are not phone numbers.",
+    "Reference paper 2 phone-like numbers are patient test-code fixtures, not evidence of real patient records.",
+    "Bibliographic publisher/author contact information and font license attribution are published source/license metadata.",
+    "Reference task/opening/midterm examples have blank student identity fields; faculty attribution remains as part of original materials."
+  ],
+  "limitations": [
+    "Heuristic scanning and English screenshot OCR are not a proof that every possible personal detail is absent."
+  ],
+  "academic_identity_choice": "User replied 继续 after the explicit identity-field question; interpreted and stated in conversation as permission to retain academic identity fields in unchanged originals. Personal contact records remain excluded.",
+  "academic_identity_files_retained_with_user_authorization": [
+    "docs/thesis/任务书-AI错题分析与学习推荐系统.md",
+    "docs/thesis/开题报告.md",
+    "output/docx/云南工商学院毕业设计任务书-赵灿.docx",
+    "output/docx/云南工商学院毕业设计开题报告-赵灿.docx",
+    "output/pdf/云南工商学院毕业设计任务书-赵灿.pdf",
+    "output/pdf/云南工商学院毕业设计开题报告-赵灿.pdf",
+    "output/thesis/thesis-windows-fonts-43541893783-1/毕业论文.docx",
+    "output/thesis/thesis-windows-fonts-43541893783-1/毕业论文.pdf",
+    "scripts/documents/build_opening_report.py",
+    "scripts/documents/build_task_book.py",
+    "scripts/documents/build_thesis_delivery.py"
+  ]
+}

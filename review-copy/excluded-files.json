@@ -1,0 +1,4545 @@
+[
+  {
+    "path": ".github/workflows/thesis-windows-fonts.yml",
+    "bytes": 1813,
+    "sha256": "de34a8871e25cc8b86bc4be70b4b6302e22c4ad078791f133115ea81007fe70e",
+    "git_blob_sha": "ebda5fd5b6411aeefebc9099334d018237b89437",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 35283,
+    "sha256": "3a791107548c029308407b1625490201bf073187b6e0ea2592fc7197308eabda",
+    "git_blob_sha": "525f03e0fe7de6ccfd20f507b76839f3dc4848ff",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "README.md",
+    "bytes": 10157,
+    "sha256": "29fee376472dd255585e3f295aec712937bc19b1ac58aa7d3c2155ebb0a01b29",
+    "git_blob_sha": "5ad07e4138c9f0451214e876ca734177fb1cf066",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "docs/README.md",
+    "bytes": 2470,
+    "sha256": "a075ba28b6f6bccfb13cd2e3ed7b6a949c2ee0b605513cd19a44266b478f85e7",
+    "git_blob_sha": "21a1c7d04668eb03b3c9cf901793cdfc80257bb2",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "docs/archives/20261028-historical-branches.md",
+    "bytes": 10412,
+    "sha256": "0dfb1f43e9a83ee5cf16cebeacaa9c97d6149573dd79ede7e7dc86cf02bd2a66",
+    "git_blob_sha": "18445260a4167fdf817e0d401f47852f8c0b3c77",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "docs/archives/README.md",
+    "bytes": 2123,
+    "sha256": "47668dc149044d22d8f99915257ae938e6a4dfdd789a8652f8f5f11f0df3b483",
+    "git_blob_sha": "6a0b5b7d932152814bd365504675442634b1c53d",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "docs/notes/Git同步与分支管理.md",
+    "bytes": 7538,
+    "sha256": "4b1cd73b075effff2f505737bdc6eba3a8df06d15dea744f43809da8007ef256",
+    "git_blob_sha": "183b90ba780f9af39ef3b9ab513d06618f69af4b",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/HANDOFF.md",
+    "bytes": 15515,
+    "sha256": "d213d7779c1134ddd49b6428f23dde83eb3ec64f4867c3a49dcf88f4b9f3bab0",
+    "git_blob_sha": "7ce2ce323649adb807f645a9e7b3950b20ce6b78",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/README.md",
+    "bytes": 800,
+    "sha256": "6163a70804e6709263448fe90b0ab9fb88fc4c74f0d1a75292cf3254a17084e5",
+    "git_blob_sha": "5cee639dfcb123311bdcd91e37307edb752919b5",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/Windows开发环境与启动说明.md",
+    "bytes": 8818,
+    "sha256": "a26169be3e4bb45233bc04dc07f49e83e6e1dcef993ed409d59a97ffb7abe7e9",
+    "git_blob_sha": "0256c994d368660e66430c2ff164e555149ef604",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/thesis-run-20260920/REFERENCE-MAP.md",
+    "bytes": 4734,
+    "sha256": "1d8baa3f902af5759c794d030992bf77b77a981ced3e25467136d297296fedaa",
+    "git_blob_sha": "4584640af6f0b1b9e2043719cf737f7e4bb8bdec",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/九章结构调整与设计核对-20261112.md",
+    "bytes": 2587,
+    "sha256": "b22fdded55369364d89bba296c2997c51f4118c8ef5efd3bc9fb6e2b477ecbf1",
+    "git_blob_sha": "ecf2e7cc9c00ea7708351feff66e03f375a5cb89",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/仓库后续整理-20261028.md",
+    "bytes": 4995,
+    "sha256": "12cd1eeeda4ce3083dad6051930631788e91982e9debc747cbd36da256960b7e",
+    "git_blob_sha": "789bd78e80014b5357e763c64009faea1c89a9a1",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/仓库整理删除执行记录-20261027.md",
+    "bytes": 5910,
+    "sha256": "4fe4d99b22d6a0d63c944ac5d3236a7d28f0cca0336f196f881fe175a93ca573",
+    "git_blob_sha": "f31fa93995f990068683d6dbe22fb6ae75088377",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/仓库整理报告-20261027.md",
+    "bytes": 15379,
+    "sha256": "0d04a0d3613a81299f2f08ec00e03ac0934683e94951313a9cd7d778538e3f42",
+    "git_blob_sha": "59d6f5bae97d98946d00cdc255559ee7c3b3b97d",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/仓库集成审计-20261113.md",
+    "bytes": 7300,
+    "sha256": "7caac4ecaa1bb1459ce3afbf38990bf83f6fbe227edf09892949f8165181b047",
+    "git_blob_sha": "9a37754000735854974733ef7cb98342c01f8d22",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/导师意见落实-20261026-交付报告.md",
+    "bytes": 7107,
+    "sha256": "2ebff8732f25dd8ae8f0ef420629e2028f9341a039ed2f5ad120b6aea41cc95d",
+    "git_blob_sha": "a6d9987f6a532b0bc59021582d13de85a5e3a717",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/导师意见落实-20261026-审计与计划.md",
+    "bytes": 4485,
+    "sha256": "66f6a46914ad29eb7d76077e4fd672289995b2cc78299627023e946cf9bfe631",
+    "git_blob_sha": "689bf3f8a8bb4d12c0dcde027f31655d3d13b004",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/开题报告.md",
+    "bytes": 6954,
+    "sha256": "9cc78ab08a567fad4f62d7be22b83feedba92a11eee87b740a78deb164655e4b",
+    "git_blob_sha": "1a412c2a6daa417fab061365dea06feef9af04c5",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/毕设审计与实施顺序-20261112.md",
+    "bytes": 9220,
+    "sha256": "70abcee28191a26dad7da8c6cf70c33948d0537fbb9183c0fa0206c42591f82c",
+    "git_blob_sha": "79abc3c45e7fee5e0c2c3e99f8af0cf7cfb8f357",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/论文图表审计与事实基线.md",
+    "bytes": 15934,
+    "sha256": "b231a261ec40b2e8c2be216b609a29cf364e8464762f077ad9ebc5136d64aa5e",
+    "git_blob_sha": "5d3cbb3fe13fed0e3a1562a99a3f090b6ee27853",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/notes/进度记录.md",
+    "bytes": 93986,
+    "sha256": "1263e28a7a2adbc0c2c8840ad249d52a88be6b73434839ae9fe5f5ccff615e73",
+    "git_blob_sha": "fa9de53ce31ab007a540adeac6efc6f88af11dc3",
+    "reason": "历史交接、进度与个人联系信息"
+  },
+  {
+    "path": "docs/references/archive/pre-align-reference1-20261113/gb7714-list.md",
+    "bytes": 5654,
+    "sha256": "46d8dc47e5d7ee6a72b7ea6d3e7e480c30160256e10aa03dbebc879d1d71efd9",
+    "git_blob_sha": "12a3588edb22ac35d6e4fd6e814d9fa5637510a3",
+    "reason": "历史参考文献快照"
+  },
+  {
+    "path": "docs/references/archive/pre-align-reference1-20261113/references.bib",
+    "bytes": 11690,
+    "sha256": "f9ea161b494d153e0abb112d165bd3c7d67b54eb788aa214a4fc605a6f0de645",
+    "git_blob_sha": "8eadc30cca194555bdf3d38ad109ef9fae3e943b",
+    "reason": "历史参考文献快照"
+  },
+  {
+    "path": "docs/references/archive/pre-audit-20261112/README.md",
+    "bytes": 2891,
+    "sha256": "70b890f94e269059345b00521754537d94cabd6aec603fcf467479ffc259c93b",
+    "git_blob_sha": "14380136a2c8c1860704c5f8dc1880d7785e801a",
+    "reason": "历史参考文献快照"
+  },
+  {
+    "path": "docs/references/archive/pre-audit-20261112/gb7714-list.md",
+    "bytes": 5379,
+    "sha256": "c3ab74b080363d902a6bc232a5628933697d58e1b37f1c94e690b7eb28c6efd4",
+    "git_blob_sha": "3314602967e17add571e073c00b7fdbbc85fb306",
+    "reason": "历史参考文献快照"
+  },
+  {
+    "path": "docs/references/archive/pre-audit-20261112/references.bib",
+    "bytes": 8321,
+    "sha256": "041e5c5738eea9016c60b0287a65bbdbd596afd45450366adcec14d21af0115d",
+    "git_blob_sha": "413ef3e55675f7e839bc3bf89c45b54eaad2bc55",
+    "reason": "历史参考文献快照"
+  },
+  {
+    "path": "docs/thesis/README.md",
+    "bytes": 3213,
+    "sha256": "c019a6dbbcbd397e206bf8bdb728dd36f217966bb21ae925f2093e9b7b3da928",
+    "git_blob_sha": "26d32bf23c7b6f6d2fcbbdb4ddcf46602d85a9ff",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/align-reference1-20261113/README.md",
+    "bytes": 1573,
+    "sha256": "4b646893074d02bbbe9e7f6fca81d1c5a770a9f424547eb4916e9d22518f0340",
+    "git_blob_sha": "bcc72d1a75849da4c9f55162e4c4c5acf3c7ec22",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/01-错题分析与巩固学习.drawio",
+    "bytes": 14973,
+    "sha256": "482cc4029d2067032ced4e61d9d75422e5a0f368e27e74f5372f441f2912c543",
+    "git_blob_sha": "dccde81e28d6deca2138e1b68bff8f05252fac61",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/01-错题分析与巩固学习.pdf",
+    "bytes": 120374,
+    "sha256": "d929445dbdf72ee2bfebe1a2b0adef915c057286cf0497f440557abc4745e637",
+    "git_blob_sha": "e523a840f00c34f51c23b0981cea78282df1286d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/01-错题分析与巩固学习.png",
+    "bytes": 426672,
+    "sha256": "f9afdfbfc397935561b45612de6db3531243f6b12197d59460eb35cea83c1681",
+    "git_blob_sha": "d3250ad29f549a0f405b7f6953c288c96d3db59f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/01-错题分析与巩固学习.svg",
+    "bytes": 15457,
+    "sha256": "dfb5128e0a9b7d8398af9c6a4ff9dae425496f73584bd0c9ff11340832b6f200",
+    "git_blob_sha": "994bd7ba8ccb584a605a91ff22a220d952350261",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/02-按期复习.drawio",
+    "bytes": 9650,
+    "sha256": "bc3be3371608b636d8e7a4922bdc39bcc166fbd8eb06c30f6781920beeca9409",
+    "git_blob_sha": "d618faaca87261ec08e9f451393c0eb0c5bd8494",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/02-按期复习.pdf",
+    "bytes": 119414,
+    "sha256": "de1e08bf5a2a8365586f5937c299c610348294e0171338137803fa92866ddc8a",
+    "git_blob_sha": "0d727ed6c01e3469d1888fd0aead0cc775f299f3",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/02-按期复习.png",
+    "bytes": 285913,
+    "sha256": "ebdab374c9580d143833ad14bc5411039d852978b9668f0632dda198d70f054e",
+    "git_blob_sha": "12422967c38d26d02dc047819951c3057dbc7d4f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/02-按期复习.svg",
+    "bytes": 8918,
+    "sha256": "416ea7071dd147fc976f177d9e82e58c89e98de473f8bc16e28746984a573ca0",
+    "git_blob_sha": "178c24e050d284a4f7fc46ba506f0a8e93328416",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/03-管理与学情查看.drawio",
+    "bytes": 7019,
+    "sha256": "af2a68c3b19466df6f755e24dcab8333654a5efded59478f7f9eb23bbce2fc11",
+    "git_blob_sha": "40a03945f506089fe21fd60482e6cc7e6ec2caba",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/03-管理与学情查看.pdf",
+    "bytes": 119095,
+    "sha256": "33f1fccf69502b02d73c4065c7e772fed54299a9941537f902cba9f1165bc2b3",
+    "git_blob_sha": "026e96aad87ac122f31ae6fd21ab63a04e3849fe",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/03-管理与学情查看.png",
+    "bytes": 250469,
+    "sha256": "4d85e1943585a6bce328653046b32c4bb0cee2fff905e2cf50e75bb65dba0435",
+    "git_blob_sha": "4e59406d93713f4656a38caa481e6309d6124a75",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/03-管理与学情查看.svg",
+    "bytes": 6677,
+    "sha256": "a14c76ebfac90c58842cc76025fe6a96ede6987fe05d382cdbb182449e4c4464",
+    "git_blob_sha": "2dcf60b44f01da23cdc6c60d503518f6b0966da1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/README.md",
+    "bytes": 4907,
+    "sha256": "4ff5440b1bb0bb88bab2680ad0bd3b676290b6f5544994c930ee071dee340cca",
+    "git_blob_sha": "ee659f02770145984916223309a847de5061b028",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/verification.json",
+    "bytes": 647,
+    "sha256": "32a84e22bdd021a78b5ca12951b05f8b57f7a57ff139a162e6a0a183c50f94df",
+    "git_blob_sha": "6e3c0a53dbe28ccc718cdd4efdce3dca00863866",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/业务流程图.drawio",
+    "bytes": 31454,
+    "sha256": "15e9c06c1906dd88bdab218b3e7ca65afe747f3430fb16f79e0c13e2086397ca",
+    "git_blob_sha": "6c0bf20488b1ca0a388d399249ee86bc27a5fafd",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/business-flow/业务流程图.json",
+    "bytes": 24273,
+    "sha256": "cff7c0ee6d9aa94fe715491ccbdd625e60b1df3e7d2270aedbfa5cfa50f812b1",
+    "git_blob_sha": "ec7f06f49d3b3b854e25617883a5879136942206",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/README.md",
+    "bytes": 1055,
+    "sha256": "f70a98e52bd3212e69a072b451595b504dc2a38aa6cf890a3337639d999782fc",
+    "git_blob_sha": "197bf44b3ea0f2aa6f9a2af13c0e8143c9cc2d7e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-5.drawio",
+    "bytes": 9148,
+    "sha256": "6b34637ce6f979edb5fda1a9ec1aadf248cf0ab4b2b78f59fba3887a1e83f4a8",
+    "git_blob_sha": "eeecd0e97c63137b7fceeba4739a060d28a93748",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-5.json",
+    "bytes": 5219,
+    "sha256": "87b8b65d4c972635b6c8d5ac0331ad006c2a7535cc0db7868514866c2bbcde59",
+    "git_blob_sha": "d0ec1f07e436c46fdcfb1da52b910ae4c19caeb7",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-5.pdf",
+    "bytes": 54495,
+    "sha256": "e3b6ab5b7fd3c56aa4c85872c4e4ed08781128648d90207a94625cd598afa5eb",
+    "git_blob_sha": "5f1940f1d1a8a36dfc872001db2b07349d02104a",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-5.png",
+    "bytes": 128107,
+    "sha256": "21bb413e788898b2b1f98e31501a61f2af5c00e2571f8300a72b8d0f915095c5",
+    "git_blob_sha": "081f4871a5413fdabb1290a9d2afab69db35411e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-5.svg",
+    "bytes": 29290,
+    "sha256": "85af0e699e3d20bfece3f62d31f6174f842d5f97af8c888f3fbd6423066e8dbc",
+    "git_blob_sha": "5a94e2bdf870c98ec29c2f10f23a114b7ea7b4c1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-6.drawio",
+    "bytes": 18750,
+    "sha256": "32b7bc82dd3cb1e03a25970aca3eed7be676492b76f323d77d8bce515aba8005",
+    "git_blob_sha": "192ad68560f17f7ea14d2fa972cec47125274824",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-6.json",
+    "bytes": 11920,
+    "sha256": "366f61f87c1ac94b618250f985c886378739d492be8517f33d8cce1cf2b4df0b",
+    "git_blob_sha": "c2f4340a1679eae1b8a5e62ce43b9973a5a765d5",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-6.pdf",
+    "bytes": 60560,
+    "sha256": "25bd15a6b7b2ce409f78ca0d1e2afc9613d9c34fd1b35ea36dc002ab3a359dff",
+    "git_blob_sha": "6e09a1bd350ca02e5a30de2100d40bba48e106b2",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-6.png",
+    "bytes": 227747,
+    "sha256": "229008ebd43370443eb1bd00120a1ae12156d93d7a16072773a63f55fc1e65fb",
+    "git_blob_sha": "874bd650890c2f35eaf8e8f75ab1c2445a9db51f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-6.svg",
+    "bytes": 43732,
+    "sha256": "56076ac78289df53f12937fbf96cb1c3685a964e2d5bc31ec596d6e51445d883",
+    "git_blob_sha": "8acbbef0e61eb03d274c033de74b2343450b6d0a",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-7.drawio",
+    "bytes": 22903,
+    "sha256": "f77c5d210604c76400eaee01f0a790c5ff101848ac06bd1a9aff551ba4377a9a",
+    "git_blob_sha": "39ec4d7aef110e41856c180729cf882987ee5514",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-7.json",
+    "bytes": 13666,
+    "sha256": "49b30a00ff37adbcb388db637e3abd466d6e72473621e767f6d76d2ab22c6356",
+    "git_blob_sha": "b50d5a25dbe10d239d471b05e3148e08ff6ac81f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-7.pdf",
+    "bytes": 61884,
+    "sha256": "b7646be365d41f61cc628d63605de6ebce31d536cd055f6de9b63d0e7466328e",
+    "git_blob_sha": "268ce1d6f22e57e10034881c3aa4ec3ea6bbd782",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-7.png",
+    "bytes": 255710,
+    "sha256": "20f96394113ae0b7d63f891e28a1c034cb592483d54fff22d0fd591d1707f316",
+    "git_blob_sha": "ec55860d3ede660bc4805d2d81b5ca16b4af2705",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-7.svg",
+    "bytes": 45575,
+    "sha256": "2764407b2a13b0de34320cedee23a798617fe93fd27e81dcc9e28d42859cf690",
+    "git_blob_sha": "1589feee1b40176274f72c4e78fbe1dfa2139056",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-8.drawio",
+    "bytes": 14285,
+    "sha256": "ca73ee7e9a92c86b082286a0152ef356b06716c18c5b04e41509669465793ba9",
+    "git_blob_sha": "28f68ff00f439fd2febce70c50df431ea29b961c",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-8.json",
+    "bytes": 8913,
+    "sha256": "fc658902b1974971b47fa7239a786e7cb2a0613e4820bf9a57093debb215ddeb",
+    "git_blob_sha": "60e7d1b174aef44fc054ac46e3c5a047c1aee924",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-8.pdf",
+    "bytes": 58618,
+    "sha256": "dcc1ed821f9ee6df850227d985214beba70c579dac271b0972977ae6bba0c0f1",
+    "git_blob_sha": "1de6226a0e020fd236ed9a0e1428274f98a6bdec",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-8.png",
+    "bytes": 180576,
+    "sha256": "9c06401f3234b139c632698f93bab85cf4bf770739ee16997fd2bb3919173dc2",
+    "git_blob_sha": "8ef00fe214ec91ff157f0107b38b862e55026c57",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-8.svg",
+    "bytes": 38164,
+    "sha256": "cdc7db5eb4c08ad91854fbffa088cb8d3404c340fe91f8b46b915377e74b3e89",
+    "git_blob_sha": "573a3a1769e452e6ba2eba46854923349ffbe41d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-9.drawio",
+    "bytes": 12455,
+    "sha256": "853f7e3e4de8905c27f84be75f6e79c3fadec4eec307d92d7f4e7143ba8046fb",
+    "git_blob_sha": "147245957d24d573657e42049fddaa52deb8f7c9",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-9.json",
+    "bytes": 7602,
+    "sha256": "881aa086bbc0612a5808e74b47230823cc07e93d05bb3729dc1bf3962f8c6960",
+    "git_blob_sha": "39dcaa15a4345bb7c450bc96ab88c57a502086c7",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-9.pdf",
+    "bytes": 56184,
+    "sha256": "c226f5845eeb08c21b73d4f76824b6028581654acb8ecfd559b49d45d8761e4f",
+    "git_blob_sha": "376e257455a87745e7ae55dfb0e56091425f18ba",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-9.png",
+    "bytes": 149703,
+    "sha256": "716090e499270bcf6876a23d23ec6b557f3ca4df60088b755a0ee67c6a8a5a30",
+    "git_blob_sha": "336ebf6809a43ac98868e975fc4c2bb4ca3c2ab1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/figures/3-9.svg",
+    "bytes": 34117,
+    "sha256": "ecebaa6d182f2c9421831486ceb51edd22fb6e463c4f43d42546b9dca0c3500c",
+    "git_blob_sha": "8ef743b2dcab0299b841d0f2d182d32d25193a6c",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/screenshots/learning-loop-mock.png",
+    "bytes": 177398,
+    "sha256": "26d2ad2d7b2d7e5fd635810615c10ea84922717b3f3dac01809705a320ba4f98",
+    "git_blob_sha": "936f909a424db42dc31309891596141599394fd8",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/delivery-20261112/第3章-需求分析.md",
+    "bytes": 23188,
+    "sha256": "75614748592bb263180a7d9bc28a8a1b6d8d2620d8e0223da7b64a383022f17c",
+    "git_blob_sha": "611e77706ef1064a668eeb7ce4989be22c7c15f5",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/README.md",
+    "bytes": 4059,
+    "sha256": "6baf65f5d7d31cfccb2b925aa55bb678fd5fd3affa2a72ea545d10ac6300008f",
+    "git_blob_sha": "45b5cbf12fddd4768f5702ebe5423ebba723a8ad",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/archive/3-2-before-20261026.json",
+    "bytes": 6080,
+    "sha256": "4675a2945d9d2993ebe44761f5af3a55b7f5218da6e038b1f175fc0db69cf5d8",
+    "git_blob_sha": "1cc681f95e59fdaab975dd11c868deea93967d00",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/fact-baseline.json",
+    "bytes": 27591,
+    "sha256": "454380fcf653ea6a831b23004574e5859cd888713be7b6f10e841b3298e379c9",
+    "git_blob_sha": "5958684b96480abed7f3d188906153b1a2471c8d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/manifest.json",
+    "bytes": 10590,
+    "sha256": "6d0a8497fbc36cc360f92f4ece1aa3439a4f7215b9e7e8799a7b84e10f41fc7b",
+    "git_blob_sha": "e0681f1695f9b76fec2ddeaffba8325f31ab13be",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/3-1.png",
+    "bytes": 132709,
+    "sha256": "75ac405b733286ad5353ed2a54cf29760f494e1f74968bbadbdb8b3cabcc546a",
+    "git_blob_sha": "1d86750aacf6e67969f927ed58fc000bf3e0808f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/3-2.png",
+    "bytes": 326012,
+    "sha256": "8b0fb6a29f755f0264b6aabf4911aa10bf5455a2973b273c1cae68f502368942",
+    "git_blob_sha": "2852038a65d5f19875f30fc626f7b581f345a206",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/3-3.png",
+    "bytes": 208469,
+    "sha256": "d6176c3db3259e96e95e3b23e75d486985a8c689d9396c995c55e799569ccc38",
+    "git_blob_sha": "54adee1b285069eed0952b92cdd86f0f9479c7ec",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/3-4.png",
+    "bytes": 179209,
+    "sha256": "db5e0caaab0095e8131b4169f360698e457a545f5ab415c30a7a8c4ccf5ad2fd",
+    "git_blob_sha": "6663f6b790886276ed8e33d7d47e0a6b7ac1c912",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/4-1.png",
+    "bytes": 226415,
+    "sha256": "d1477cfeb9ccddd8ab2232a351e85b5d767b2005d29fd67f6d7ed3c0d26a1f86",
+    "git_blob_sha": "68302796a0cf5ea5a788e7a53f0ba8ccbdcb25d2",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/4-2.png",
+    "bytes": 139517,
+    "sha256": "34a6c415b664dedcf4385c7c1aa0f06bfe26898d586c70b111227246da25181b",
+    "git_blob_sha": "6f3698f719ef17338e94dfe4ad60d68fd7061d8b",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/4-3.png",
+    "bytes": 131570,
+    "sha256": "074999fe5787d093b7d83e4ea2ad51d19bc15a3dd6b86ef7fe452acfa0c6b6d1",
+    "git_blob_sha": "d8fa7ebabd3100de1a427e3eedbcf7e9b751ec6b",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/4-4.png",
+    "bytes": 62858,
+    "sha256": "b5e043c2ac6719120c717ab93066cd4a8c514b6fd790bff756b67964723d6fc7",
+    "git_blob_sha": "afc9a4cad332302fe37ab076e0605a71f498df2e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/5-1.png",
+    "bytes": 131343,
+    "sha256": "de11dc5ae8b13e0d60617968eb1c251c96a32fda633267be2ae3d64de83275e6",
+    "git_blob_sha": "7f35c77c320a660071fed115ff2dc48648ce4fdb",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/5-2.png",
+    "bytes": 228949,
+    "sha256": "3f2de49a8bb908a0d432a5f9fffafd55eec1665f9821de8affbcf1775e40a33b",
+    "git_blob_sha": "75dc197d587cf26fd3cb5b29d5ce2db88b4efeba",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/5-3.png",
+    "bytes": 201954,
+    "sha256": "b0db42f41416d68276e496d0cb6ee49ed684c6de28392f7bde20dab6fbf9bcbf",
+    "git_blob_sha": "ccd45954d1e60a6bcdfd3b46f1fb575763258bda",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/5-4.png",
+    "bytes": 152351,
+    "sha256": "ce4486881409e9e79bf92ab8dd179a7cbbab7c2a675968de5caea5603f4ff4a0",
+    "git_blob_sha": "2219900fe559cf314f1e33bcd54632db3e4ff013",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/5-5.png",
+    "bytes": 84840,
+    "sha256": "69ea2a05991e4f2efc5032d869cfc1dfe557a7ce074040d3a476543c12e3a5bb",
+    "git_blob_sha": "c3fe31b64939bfda54aae6892038c26eeeb27774",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/6-1.png",
+    "bytes": 64208,
+    "sha256": "270442a8b2ef8f58acd705c183eb2a5c387ae268e656c33a89f15e0552b2b4ca",
+    "git_blob_sha": "77b12fd7a3ad7c3c68e4adad3741afb772efd32c",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/6-2.png",
+    "bytes": 84708,
+    "sha256": "e5bc23889273bd21d17e286b58520f1905842a41b1812c69891a4df1171fb6c8",
+    "git_blob_sha": "0bbf71a0e90b2afebf93e8d709cb4c5beac858a5",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/6-3.png",
+    "bytes": 42781,
+    "sha256": "a268ea80919163c98a98a07680d40082fb86a731d7f83a08eb91c34aad6f55c6",
+    "git_blob_sha": "2006dd36a554354d0743ca3ce8d1efb11c402c4b",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/6-4.png",
+    "bytes": 80560,
+    "sha256": "313175d70e7274eb9dacce70b2bc4761f1af43a65a13cb4f96abc290e82f77d7",
+    "git_blob_sha": "f2ec33306676058e3d7715b1508ca63ee7086c83",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/6-5.png",
+    "bytes": 116291,
+    "sha256": "983887431dce9d606c491a323191209492868cc0c3a4668d73411b437f9f5ca9",
+    "git_blob_sha": "9aba08d15e0f2d1bfd0d317d12937473d56505c7",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/png/6-6.png",
+    "bytes": 73739,
+    "sha256": "b84be15155072dd40c12d58b4bd710094d6a3886abfb9a9629c27d99fa75d3c0",
+    "git_blob_sha": "834cc406ddb1b746987d2a350b96b9ae241a8d19",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/3-1.json",
+    "bytes": 3846,
+    "sha256": "396caccef5d62c4dbb4e2806832a9b99b967aad6bbcf5159ae823cb88d82def6",
+    "git_blob_sha": "0758c7e9bbdd2df8f34b9f147bd93cba215e7c13",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/3-2.json",
+    "bytes": 366,
+    "sha256": "ca3e49964ee4b2fe99e8cfb3500f77eda0572c146ba6c900dbcdb8e53457e760",
+    "git_blob_sha": "8d33451a0eb7a85fcce1ae537353d12052ef67db",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/3-3.json",
+    "bytes": 354,
+    "sha256": "3162abd90c04274666ed372c97e066d40e7fd0ce4b455cfd8888c4e2f319ef0c",
+    "git_blob_sha": "f72bc095aa67a7f21b6dc22dc213bc9048bed8d1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/3-4.json",
+    "bytes": 372,
+    "sha256": "8748da333e2eb54a4169d45fae0dccaefb573f5b292aa004961bc3a26483c84c",
+    "git_blob_sha": "d024a811940304ac73883c422cc5daba1d3c1c98",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/4-1.json",
+    "bytes": 6573,
+    "sha256": "0d1145acb80509b4576fbc9cf0b81caa8a8e1b263cc130dc8a648b928afd4a47",
+    "git_blob_sha": "6ea7039ed5be9fbffedd8013c7e48aa810e1a8b1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/4-2.json",
+    "bytes": 6957,
+    "sha256": "50945c4d4ceff71b9e727c789adeb5b8059b5b3746951f6448d2840f042c7f21",
+    "git_blob_sha": "6809966ead05c08e3b693592e534f5ffaf8040e0",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/4-3.json",
+    "bytes": 7092,
+    "sha256": "27245ee41c4fb88e4636b95263491ff4b1c49ffab12b360b10eb7da876c6153e",
+    "git_blob_sha": "32b187aaa484ecd53e507b81f6a28204f440f2e2",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/4-4.json",
+    "bytes": 3440,
+    "sha256": "50e6986df71fd424d02e13406eddf85498915b071a9327e4ae36a27dea4a5de8",
+    "git_blob_sha": "98415919561be6c64e27eadb365cff372848296f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/5-1.json",
+    "bytes": 6558,
+    "sha256": "7579df2a4d4b53904cb4a4bb86fbdaeab590935a67b36ec022bfe9b5bc089179",
+    "git_blob_sha": "c4774cd91de1bc427c28d19d8d84d01eda2e65f1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/5-2.json",
+    "bytes": 5370,
+    "sha256": "a529dde679c995d4e78aa7a57f5fa3072dbc7f753b6d5f56a22867d1e9fa5d62",
+    "git_blob_sha": "3b87ca5ec1a0d544e8e7035247a61f76423aedd2",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/5-3.json",
+    "bytes": 7300,
+    "sha256": "ee46cafc2c57a68932764d710d314858a9bdd5c6ceded010055f29208bfcda45",
+    "git_blob_sha": "dfc3f7dd84eb24ab52e46e2360f76f416cd9637d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/5-4.json",
+    "bytes": 4619,
+    "sha256": "2ba09183a457e80dfce1227011e9abf6aef5f7fb27034b6d62f9641356999b45",
+    "git_blob_sha": "407ef0d734d5e176a6d44a561c1d3edba9a5dd4a",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/5-5.json",
+    "bytes": 3103,
+    "sha256": "2deb40e2eff87ea8c9f7b051781adc02720843388eb2e98dba95b353ce272ca7",
+    "git_blob_sha": "6c92ca8f90b319f25b20586b795d04f5bdb5a082",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/6-1.json",
+    "bytes": 1225,
+    "sha256": "2846931d848e7a046d93d7f345cacd7fd0041029e75a3961fd80b8c5a3b0ee49",
+    "git_blob_sha": "6dcd3046fa46065844f1901d0d5e7f8132859c48",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/6-2.json",
+    "bytes": 1255,
+    "sha256": "1663afcbb68068bda4ced013484aa542d76671776334394ad717280fcbe9be58",
+    "git_blob_sha": "68405b2d0d8289ee363ce42360b3f26b67f686f8",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/6-3.json",
+    "bytes": 797,
+    "sha256": "ffc8b0b9d7c774d316fa79f4ddfeed1e0b637b4c94b8678c8f3e9b38fde2e15c",
+    "git_blob_sha": "77fb18b2aafdb3182e03b3b588227077df06bc8e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/6-4.json",
+    "bytes": 1696,
+    "sha256": "8487551356e5225ee39b9f6c145bc517c5494391f360b53d08e98f894b7d65af",
+    "git_blob_sha": "6022774e68191887716cf4444a13a3ac5b937c19",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/6-5.json",
+    "bytes": 1251,
+    "sha256": "1a0676ad1cad94e5cf81bc53b41fa74937531f84735d6b5594d8f25c9d011897",
+    "git_blob_sha": "1e46d74aa1ad5df076752cc677bfae0cfd5f99a7",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/sources/6-6.json",
+    "bytes": 1261,
+    "sha256": "f41c9eb450a13335b51876ec938f0a73788fba4de547624860393b9732d3a010",
+    "git_blob_sha": "5dea4c55d63f98fcac4f680cc7e26b96d2e30d22",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/3-1.svg",
+    "bytes": 3552,
+    "sha256": "d2282be1c04b5ae7254c5eb42ba769c79529adf40225309d9b6af4485be40406",
+    "git_blob_sha": "172820a298aec9e279f2c4eac6f54c778169aadf",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/3-2.svg",
+    "bytes": 15466,
+    "sha256": "60799fe41b69986c6380236d01603a4a8c122dba3e32361b8735c07aa01d31eb",
+    "git_blob_sha": "62ae66c5deab760d41410c514dc31300664735ed",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/3-3.svg",
+    "bytes": 8927,
+    "sha256": "c8dd4d2037eaeadfe5e766c30850eebe00499a94c2255ee78daf3b6a2878b1d0",
+    "git_blob_sha": "8ee710d81ed9536d7efd8f33dac84384deea9f6f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/3-4.svg",
+    "bytes": 6686,
+    "sha256": "2bbdd05fb0aab1c8dfd6d88d588fc45c1a1bc152c0f803f443596503b87332c9",
+    "git_blob_sha": "08e95d8cd7716b029f4bc3faedb82dc63030a6eb",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/4-1.svg",
+    "bytes": 6097,
+    "sha256": "e496fbdcfa8d8e181df946c1c2b4f56b3990b64e986bdb2067f5d43ac3f69c67",
+    "git_blob_sha": "d8f7921ddfbd5c15959e5ba228d47e1515a279e7",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/4-2.svg",
+    "bytes": 5429,
+    "sha256": "9dcb9aaae2fd19eeff88cee3b146a5c7f5fd18b759d8e67166201f9218a141de",
+    "git_blob_sha": "1340d83918e743b4adcb00348a8bbdf424fb1596",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/4-3.svg",
+    "bytes": 5227,
+    "sha256": "b7c1f8088f14f64e239f657d0c910ef165034a34ea06a0bc8761714656c3b633",
+    "git_blob_sha": "27b9df7b5c6fe664c4b37b09f6203cd9bb131d9d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/4-4.svg",
+    "bytes": 2556,
+    "sha256": "f9348a0e237b9b9853706faaabc6618360669890ba3884029e810a362ea54ed1",
+    "git_blob_sha": "db0615e93c035a9c32329bab2e605c845d9ccc7f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/5-1.svg",
+    "bytes": 5703,
+    "sha256": "e20b79e7e16de8e173f677c0a8dcbf32edf3390c5a6665152d7aeb6715a8fded",
+    "git_blob_sha": "d4ca23fb7923d3874f67eaa69003ed7ba188a229",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/5-2.svg",
+    "bytes": 5243,
+    "sha256": "b962865bbb599fa025cfff4a1b426a51bb7cd44a45316ded3d2938fe50a685d9",
+    "git_blob_sha": "46f1fbac9563415cd00ed11a769c39ca7b3d937a",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/5-3.svg",
+    "bytes": 6784,
+    "sha256": "fd8844d243d2f8e6b88ee32f57dbcb991e02868537ca68f6b04f41dc4f846bc4",
+    "git_blob_sha": "c043ccb69551643764534ae2657ddbcab13f8fee",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/5-4.svg",
+    "bytes": 4161,
+    "sha256": "3aeb6a7d2515f3f748187adf9e813131dba4953c0e976db0863d0f21cdd9dba5",
+    "git_blob_sha": "94d64dc48f874103207dd806a8ca1a119ce4d3d1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/5-5.svg",
+    "bytes": 2988,
+    "sha256": "0e6cf696930a26ce66cdbe709cb4c79bd93f69472ab7030331afad75995d1b10",
+    "git_blob_sha": "92525293ac89d4e25a138da5a3e2b1f6c7c3c9a4",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/6-1.svg",
+    "bytes": 493259,
+    "sha256": "6b2fc67029a1a3a897c4322bda2dff38668679e95c3b01e4971deae3dc4cf881",
+    "git_blob_sha": "43b8cbc465a19ec25cce72100c80a7a6cdccd35d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/6-2.svg",
+    "bytes": 454248,
+    "sha256": "a984003dc24e7c1b16921e51729dd45abc323a91294c64247f5463139743bdf8",
+    "git_blob_sha": "8c48bba0bba992b9ed5bae662fa759730e9d16da",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/6-3.svg",
+    "bytes": 209677,
+    "sha256": "331eb91cb0091b967fccf2e3662734987932eb89abe7996282fce564a239aa32",
+    "git_blob_sha": "4ecad352d31b083d7b0f1bb8375b2e719247dafb",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/6-4.svg",
+    "bytes": 744014,
+    "sha256": "6fa399cad12065a813e13b0ccd2ef5826d7ff060cf50e3fc0de87ad7ba5d3b9f",
+    "git_blob_sha": "c558a7e01b6bb296a6f54716b9d0d8d8e4cc3dfb",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/6-5.svg",
+    "bytes": 479204,
+    "sha256": "3df53f20ee7c90103385981fec88eff97c16d83f68274757c571d65beffb5203",
+    "git_blob_sha": "84e77eeea5585cb22682628db90bba36deee9fbc",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/svg/6-6.svg",
+    "bytes": 507065,
+    "sha256": "799c3287ed8e95e5f605b014d5146d49ad7672859043f8214c389f3a67a66627",
+    "git_blob_sha": "5d9fa9857b4684718d702a03a1c8b24d59980d9e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/figures/verification.json",
+    "bytes": 450,
+    "sha256": "ab4559ac76b9f615f640c7d6992ff4d09ccf45221f01f80d60ed851455c9f296",
+    "git_blob_sha": "504bb717c40ba5d8cf45fafa9bb201e9920aaa2d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/README.md",
+    "bytes": 2562,
+    "sha256": "4faa3ec8178bb9eb9f525e7789e79b05763ab83eb3b9c972527b880345c76521",
+    "git_blob_sha": "96f3a7797cdd21ffd8519c5b672c5ee8103690e7",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/01-错题录入与AI分析.drawio",
+    "bytes": 18401,
+    "sha256": "19f90b9d9431df3377a848511a7631b60bb634e1aabcbab63772e0e313aa4d20",
+    "git_blob_sha": "1f5c2ace9b8bd4fdd6d1b519e7b64af2fadb598c",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/01-错题录入与AI分析.pdf",
+    "bytes": 169923,
+    "sha256": "b69a9459107acfbe57860b23b07fb2f90dd6823382f9351f299ab0fdc48bdf73",
+    "git_blob_sha": "2395a4dc68aee24f7e355803d6e4876a9fe04e73",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/01-错题录入与AI分析.png",
+    "bytes": 335780,
+    "sha256": "21a2186a2698e0f2a80bd5729fa8ea2d48e3eaadde655e6f7c7f603ed126e0ba",
+    "git_blob_sha": "08dba5cefa5b28cf955e3cd11aee5344cbef8c9b",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/01-错题录入与AI分析.svg",
+    "bytes": 151073,
+    "sha256": "8752bb95e713736d18d42cc52b26e83e65990e98db96d9422ad0cc056f322229",
+    "git_blob_sha": "c5845c1be4006b71a1f2c0f7d771e9837122b116",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/02-学习练习与复习.drawio",
+    "bytes": 26104,
+    "sha256": "87a147521c98d80677efa8d283e67a06386f69a102325e39626a62738a603e85",
+    "git_blob_sha": "3d413ca2bce465f2e08749f67ddc8b3e24438f37",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/02-学习练习与复习.pdf",
+    "bytes": 163763,
+    "sha256": "e5b42da3ec7fbe0198e4b67d0e94fda5c02af8e467972685288935b2fb24bc4a",
+    "git_blob_sha": "a7c84019a0ca7bb480464729cb26c88d41922bb7",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/02-学习练习与复习.png",
+    "bytes": 354345,
+    "sha256": "712e801011d6778d64eb1e857c0f9deb806eb84b476ffbf042704c1d5d4d032a",
+    "git_blob_sha": "5da72f4a924ab90e0016868fd72445a6c8654271",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/02-学习练习与复习.svg",
+    "bytes": 158350,
+    "sha256": "e8336fb01bb2dada375884d13279277d19fdc045c6eba6105c489f0ae35f59da",
+    "git_blob_sha": "37d5fbcf55ad32d3052047824885cd919fdea52a",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/03-管理与学情查看.drawio",
+    "bytes": 10975,
+    "sha256": "ead591a8d10eea96171fa131d2a438072666d5e47b68d9a0581eee5dc598d96f",
+    "git_blob_sha": "c8257efa0c28eeeff5f1b2cc4aa43821746a7981",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/03-管理与学情查看.pdf",
+    "bytes": 138108,
+    "sha256": "b4da9b5f95293cfe2b4c836fddc4ddbe35d5358f6800ec99afc712bde3aed667",
+    "git_blob_sha": "ef04265128364742bca849f5057ba76c4489d724",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/03-管理与学情查看.png",
+    "bytes": 252187,
+    "sha256": "3ba09a927b99ce102800c8dce9aaf289d869304364734ed66c751d9e2bd3f9e2",
+    "git_blob_sha": "a742708fa4956eecdbcb095750d070da05a3bd9e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/03-管理与学情查看.svg",
+    "bytes": 111950,
+    "sha256": "7f34e483dffd879fbfdd2f3ae89e94cc7e7ce8b8a090dbb2b506c60013c5225f",
+    "git_blob_sha": "1e6106cd18a65b1942eab318b1e90fb5f4cda7b5",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/FONT-LICENSE.txt",
+    "bytes": 14712,
+    "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b",
+    "git_blob_sha": "420b42087079f0595edc4809d382e67dc2b31d38",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/业务流程图-A4审阅版.pdf",
+    "bytes": 360564,
+    "sha256": "3900523237b6640b77b343428c225134aa0bc191632059138ea1dc04217281c8",
+    "git_blob_sha": "2bfa3f84fecc848cef663cb610892c5575d5b17f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/business-flow/业务流程图-三页可编辑.drawio",
+    "bytes": 61005,
+    "sha256": "a485a66644495b30e49fd0f886da14b000e500bc5e7cb5b0eba44e4f3a912f31",
+    "git_blob_sha": "0d2dfcb9938aa0078f130e87143248bd7f1dad83",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-5.drawio",
+    "bytes": 9550,
+    "sha256": "c50eae81fd974a71cc8b4eb096b783e7ff5b82757aaaaf3cc6a8d7ea6fc8844b",
+    "git_blob_sha": "838907c72a35ca07fb7a40ed6a82629dc5dd7f15",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-5.pdf",
+    "bytes": 87693,
+    "sha256": "9560966b8871431d4de7d11442c2b409fae309991ea7e4bc5a8b46e051b95abf",
+    "git_blob_sha": "57adf7de20418ec316a625977b86a4e679e0c4b2",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-5.png",
+    "bytes": 172805,
+    "sha256": "140b91d8d8db5b5ed08927ea73d504ff6d61bf1eec906a76b90728615c716c62",
+    "git_blob_sha": "dc71c6d1d3e5754015f42a0b6633efb1a5d63b23",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-5.svg",
+    "bytes": 73648,
+    "sha256": "f3ff7bfd359b81f2dc3b5dc5ae32b42bffca1c5a1bf745546adaafac127c1a2a",
+    "git_blob_sha": "38028cc0d67e038f36bd2839936e73cd0b1bdb9e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-6.drawio",
+    "bytes": 19168,
+    "sha256": "63a66eef6f117bc82db002c544bf99b3e505c912e1c8fc4550077876c6f4f59f",
+    "git_blob_sha": "903c58ea3200ce9b78860db225b1ebae4f6b1e59",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-6.pdf",
+    "bytes": 121007,
+    "sha256": "40f91cd91db3fa4a845207a6d6ef8749c3aec9a6c735b167d1c1e78e7f3a9699",
+    "git_blob_sha": "fe52a50f321118d984220448894b0eb48f97ae19",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-6.png",
+    "bytes": 295807,
+    "sha256": "07775fa24aeb216b565baf8bf6dd00b7ae4cb2f98b2f507133aa8fc2743c0b2c",
+    "git_blob_sha": "d49bf36f1dde5fb6f6f6536428a2dfa778f21ff3",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-6.svg",
+    "bytes": 107526,
+    "sha256": "9150fc4ae7944b350af6eeec53b931874b477a06f31dc8163a42df31eef62021",
+    "git_blob_sha": "a19dce5678e8fbc683ec6f1a9487a8bf8bed523b",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-7.drawio",
+    "bytes": 23338,
+    "sha256": "537606ee20295f9f63ed7a5771fef4a5d8bdb7086532ea44cef24f4efcaa36d0",
+    "git_blob_sha": "4911ebae13c1a5c813ff9891d0f42114f8538888",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-7.pdf",
+    "bytes": 123529,
+    "sha256": "a173c910ed147f081f033b58b087bbdc65bb338406891558722599a97780aa46",
+    "git_blob_sha": "77145768ff19343ced0081bb3928c1c5592a5105",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-7.png",
+    "bytes": 323071,
+    "sha256": "48f591eae26ecbab91a7899f64c8a486f89506039312810c22addc505de7c966",
+    "git_blob_sha": "5b8b353db6cf683fe9cc42c410d219f224bc7a06",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-7.svg",
+    "bytes": 113018,
+    "sha256": "5dee347f8b15cea784c2305882f30335594851c63c8018f9f6ae32f02ac5654e",
+    "git_blob_sha": "49fefdb960d786e6441af57b37d783944f555391",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-8.drawio",
+    "bytes": 14694,
+    "sha256": "c59be38ce5d8fe48ada074050257d0e68fb281d10ac682ad69dfc3a7acdd7a27",
+    "git_blob_sha": "8e0726827986d223a9799c05c385eb14f11372e1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-8.pdf",
+    "bytes": 115278,
+    "sha256": "4bc5bef8a070c57bc5a868a76a18c4e5587dbcc4b31f4a4f1de37674d54db663",
+    "git_blob_sha": "b04e9a81c05f80a0c53fc8fc2a6bcc3b3311f167",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-8.png",
+    "bytes": 240541,
+    "sha256": "62f25088237dcb694fb8f8a8fd1efb634cc58220cafc8c7b2cbe94e8ac645c31",
+    "git_blob_sha": "f4cf28507fd9b852d6070ae587df545cbf932198",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-8.svg",
+    "bytes": 89062,
+    "sha256": "c21243191dbbb171e93811b1c0a677179964d24dd0e49f201325ca261f7989f2",
+    "git_blob_sha": "3bff0baad384589a194736b9fd9e824af9450c2f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-9.drawio",
+    "bytes": 12887,
+    "sha256": "a1fe63029ec937c814cc45af2e1b5ec4cdc578e7c01a6447561fc1519e1daf34",
+    "git_blob_sha": "f0594b91b94b505fae54283176e4703e00bea832",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-9.pdf",
+    "bytes": 104843,
+    "sha256": "1721862b1b5e10c9ba03c0e38664e48d2382ea5840ccf686af965266c45bcffa",
+    "git_blob_sha": "1fdf837509ca071227b5392740cbda8b8a2bd6ee",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-9.png",
+    "bytes": 209698,
+    "sha256": "4c6efc177ced15d06b11f883ee20597c2dfb3d0b06157cad72e09fd01558b0fc",
+    "git_blob_sha": "f6d542de517d9c5fdf7c5126c786f5ba5b87304f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/3-9.svg",
+    "bytes": 84762,
+    "sha256": "0edfb782a28aec93f3bf498bdca735be9d353bfea8e3c92bcdb1192683f6f09e",
+    "git_blob_sha": "1cf1821460cb9dd371bc5ee118f1ae46f37a7ccb",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/export-log.json",
+    "bytes": 2031,
+    "sha256": "ab93ed1afbb52449007cb7d84409012eca171e1a01b4dca129a4b3fb06553d30",
+    "git_blob_sha": "2fe576a6a5008c8c67b6ca40787e9c666ef2c4f3",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/figures/需求分析图册-A4.pdf",
+    "bytes": 347653,
+    "sha256": "de2171158624be9df1b937bf9385f11773a91abcfda1436f3cacb7168d553dd6",
+    "git_blob_sha": "954b6a8b55e05cbfcb52fc4a11c914f4bce7a12e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/第3章-需求分析审阅稿.md",
+    "bytes": 23054,
+    "sha256": "35edea14aa15333806454caf7f0bba403a4862f77762a39ade11eb5390ebac02",
+    "git_blob_sha": "d683975b5cc3d5af140992ac04474acf021ec76f",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/requirements-20261112/需求实现与验收追踪.md",
+    "bytes": 5151,
+    "sha256": "d26d5cf16f79c717a3cce76b1cbc4b88f789c559119c4006d1eb818f60c9b555",
+    "git_blob_sha": "1fc357824caf5dca3531db3352558c38f03f63fe",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/01-login.png",
+    "bytes": 183363,
+    "sha256": "6d8a419c35724c65690a4f20414aedae63f29dfb2349a3eb6cbd78276205aec5",
+    "git_blob_sha": "ad12a45b145572ef4f0f6280feca326bdff5ad0e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/02-student-home.png",
+    "bytes": 51290,
+    "sha256": "9836c5ae3866c2e4b6e2dd5f9c966b1e358f3a9f5114774d6be34c9647265d05",
+    "git_blob_sha": "5d57fdb6238c56dad0128f263d745894a8e080e5",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/03-student-question-create.png",
+    "bytes": 52978,
+    "sha256": "d24d8674d370cbeb8e95dc79ae9ad79f9a2654682390dc2510658268f492daec",
+    "git_blob_sha": "4d8c6963b26104aa11ff0a39b29bc1878493a260",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/04-student-question-list.png",
+    "bytes": 55491,
+    "sha256": "5dab9c188bec076c905e857fa5c8b5bff4b1615f49477ed077935e87967fb7c3",
+    "git_blob_sha": "5be1cc943a6bf707267b9d79d33b30bc7414e63e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/05-student-question-detail.png",
+    "bytes": 102635,
+    "sha256": "28d833cceccef952ac67a37bec0686d3123ba17d1d94615936578e65e81eb2e8",
+    "git_blob_sha": "d83215e3b289160db59eaa59f1e59d512be66a2a",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/06-student-review-plan.png",
+    "bytes": 38794,
+    "sha256": "7adbfbc40056622dfd7d02e09eaf05550692f66c58945025015202c8623b40b5",
+    "git_blob_sha": "5da439cf812550e1469831b547549b419f019601",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/07-student-report.png",
+    "bytes": 56873,
+    "sha256": "e4d340cd7e76e60d854e96d579df9c9496c6eb80bf123cefb297f256048e92f9",
+    "git_blob_sha": "5ca1a42200a78f0b7210d4c6f957983c8aa012a4",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/08-student-message.png",
+    "bytes": 60998,
+    "sha256": "8afce68b327f09ec5dc932ba9be6d13d6efae4aafd4cd6034ed8399af5adb63a",
+    "git_blob_sha": "4071bb48ba0e6d0f8980cf9916b8554f044bb9cc",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/09-student-profile.png",
+    "bytes": 38422,
+    "sha256": "84d90c07c77b2c2c302dee6f42cd09e32ee0f076d4d5026240bf2d7852107d2d",
+    "git_blob_sha": "7343e039058c67fe4458164a40ca7a44e3560cc1",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/10-teacher-report.png",
+    "bytes": 54681,
+    "sha256": "e7f7e435c08d7ffd27687af113c3639bb4ceb5ec7cb3211387ba1dd6e93639fc",
+    "git_blob_sha": "9e636b75d51a2378749cba956e378e1801c4148e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/11-admin-user.png",
+    "bytes": 46964,
+    "sha256": "4ce755096a627327c81276adde09cffd0ec8f7dec834dd3367b4bf56ddf9ec8a",
+    "git_blob_sha": "23ee83f8c36475ba97191b7261a9c562b519b6b9",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/12-admin-subject.png",
+    "bytes": 38111,
+    "sha256": "357a4b3cb3a54617ab3bba50de4c105b340a201a8900f792f3df4e724de56b5f",
+    "git_blob_sha": "590bc5e9d54e12a37510123bed643f960d6ee2e9",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/13-admin-knowledge.png",
+    "bytes": 39670,
+    "sha256": "30658eea94ebe187219759dbad1650bc28f5fcd5ee71afa0eb6dedcdc49444e5",
+    "git_blob_sha": "81f63bc9c82baeb2452b6e0feb5cb5d20210c9d3",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/14-admin-announcement.png",
+    "bytes": 37250,
+    "sha256": "e67ce1af929ce4a51dc30b1fab64a299f90c526575a45f3f21c9d8759021c92f",
+    "git_blob_sha": "14281f27668164d518b3f4131759e92f8a6c9113",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/advisor-20261026/01-rich-input-recognition-mock.png",
+    "bytes": 211308,
+    "sha256": "e457a0157b8043a3c152a5326d6c081348916e127ac5757937229222285aea72",
+    "git_blob_sha": "0e197c04aa7b01ce652160590d26eb6cd2c9727e",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/advisor-20261026/02-rich-detail-mock.png",
+    "bytes": 167675,
+    "sha256": "bb03f24254061c85071807522c093d5501c2a871f2ec4073dc89ce23ffcb0e41",
+    "git_blob_sha": "a580ec65004492a218f9d513d61d22a0199838f4",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/screenshots/advisor-20261026/03-image-confirmation-mock.png",
+    "bytes": 186763,
+    "sha256": "5eded2391d77ee0665763310c5a6ee62b14734901b87daf3a1474f2c1a607977",
+    "git_blob_sha": "14b71a813b2a98ed8c7bfbb404ea2fc8ed7523c8",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/README.md",
+    "bytes": 3531,
+    "sha256": "8b474d061808791e444f5bec80ba1aae3cf5c77935c531a2c9a82209810e3da3",
+    "git_blob_sha": "6c6d6765406ba7c8d87163cd5e9f403ac2c7222b",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/figures/png/6-6.png",
+    "bytes": 201954,
+    "sha256": "b0db42f41416d68276e496d0cb6ee49ed684c6de28392f7bde20dab6fbf9bcbf",
+    "git_blob_sha": "ccd45954d1e60a6bcdfd3b46f1fb575763258bda",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/figures/png/7-1.png",
+    "bytes": 64208,
+    "sha256": "270442a8b2ef8f58acd705c183eb2a5c387ae268e656c33a89f15e0552b2b4ca",
+    "git_blob_sha": "77b12fd7a3ad7c3c68e4adad3741afb772efd32c",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/figures/sources/6-6.json",
+    "bytes": 7300,
+    "sha256": "ca659702525244284bb191c00ac7ab0656a5e28e3adf15ffd19b5938caaa9284",
+    "git_blob_sha": "7a24db61f47d5218ffc1c412c8989435ecee7a78",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/figures/sources/7-1.json",
+    "bytes": 1225,
+    "sha256": "d474ea8e5fb2cd42c31636c4fe30c50a50196466aabfd66e79dcd90654419d34",
+    "git_blob_sha": "5a613ab3cffcd25927d7435928635b8e1a6d61c2",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/figures/svg/6-6.svg",
+    "bytes": 6784,
+    "sha256": "fd8844d243d2f8e6b88ee32f57dbcb991e02868537ca68f6b04f41dc4f846bc4",
+    "git_blob_sha": "c043ccb69551643764534ae2657ddbcab13f8fee",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/figures/svg/7-1.svg",
+    "bytes": 493259,
+    "sha256": "6b2fc67029a1a3a897c4322bda2dff38668679e95c3b01e4971deae3dc4cf881",
+    "git_blob_sha": "43b8cbc465a19ec25cce72100c80a7a6cdccd35d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/structure-20261112/migration-map.json",
+    "bytes": 16757,
+    "sha256": "8d2cfeb082042424dc16d5b062e632508c6a8a75dbe35e4344c240bfef935a68",
+    "git_blob_sha": "4d259b4f5efaa428763143da89857591aec0c018",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/README.md",
+    "bytes": 1464,
+    "sha256": "aa89b039d8b59bbab295d4b66cfce4fe39d77c64b09ac68f15b25a8ec22231c8",
+    "git_blob_sha": "69c65ce94faa255d387333a9020d69a3ac577456",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/business-flow/02-学习练习与复习.drawio",
+    "bytes": 26101,
+    "sha256": "b4386ea616a7d3d3a62db298fcc8b3b3d417197ab13d374214c3f47ef6bd8b84",
+    "git_blob_sha": "1a2aa7a4d4d1b654a63452b97dc26d1a7df5eb9d",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/business-flow/02-学习练习与复习.pdf",
+    "bytes": 75709,
+    "sha256": "41005fde60f8a998d387361130cbf072cfed83d4a93f83a61a7bb24f46b00d99",
+    "git_blob_sha": "7228465b109ae9b9b43441e68a0d2653c3511df4",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/business-flow/02-学习练习与复习.png",
+    "bytes": 358302,
+    "sha256": "c23f82e5c55b0f81a0474e62ad5de225cd2ca76af51d8a3831ec07eec09b08c6",
+    "git_blob_sha": "378796835fa6cd0f2379d94e3537a1141f5a38bd",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/business-flow/02-学习练习与复习.svg",
+    "bytes": 158347,
+    "sha256": "c58b0559c9ed934827a2a3f2ea282538df0f1227af316845fd3750cffd6ffd8c",
+    "git_blob_sha": "7fb955975cb703ea5d34df9377699c0cc290f057",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/business-flow/provenance.json",
+    "bytes": 825,
+    "sha256": "e920128d656d7d03d5b5429d23f5156f36acc648fdee4170959aa7ba87e026b1",
+    "git_blob_sha": "54f6f64c172799a9536d4318e6c63ab013ea1d5b",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/business-flow/业务流程图-三页可编辑.drawio",
+    "bytes": 61002,
+    "sha256": "f647d9a2dec46d0c2e54f3d36312c1143c3928842d696815a22719cd7ed39998",
+    "git_blob_sha": "c3c7e09e389be8b38644f83fa244e246b240b760",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/thesis-audit-20261112/screenshots/learning-loop-mock.png",
+    "bytes": 177188,
+    "sha256": "0471dccb65cc4a1e1b43d562617f37c668e6c9af1d9f740a02a573688b8ee09b",
+    "git_blob_sha": "7d464f55914fee929efe9340792933bcf954aeac",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/thesis/第6章与第7章大纲.md",
+    "bytes": 16818,
+    "sha256": "b8792f858750b4164efebdae54c3f1fb4c501f9d2f445b3f90bd428a85fc77d6",
+    "git_blob_sha": "4a56994eb99ba2fa3398bcafa6dd35fb4174ce66",
+    "reason": "历史章节、旧版图表及重复导出；当前引用及其同名源文件已保留"
+  },
+  {
+    "path": "docs/validation/advisor-20261026/frontend-build-final.txt",
+    "bytes": 6335,
+    "sha256": "adb30c596a03362dadc979e015b2880fbfaf27661bc53cc891753335598505ed",
+    "git_blob_sha": "a0ea66c24a1dc6107dda1b624069276dd29aaf61",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/advisor-20261026/frontend-verify.txt",
+    "bytes": 13587,
+    "sha256": "0b4a149026326b090262c03354cb66a5838358db6bd0347807711d53dc346940",
+    "git_blob_sha": "2180e9f0355bbab5615612205de579f692eeb13b",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/advisor-20261026/smoke-first-failure.txt",
+    "bytes": 19978,
+    "sha256": "f7a36d4a7369c5611ce03667f17f813d5c951ec68a2441aa9c9ac310fefdf79c",
+    "git_blob_sha": "ef5354002bff021b6aa36c9ca9e39fb430880e24",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/advisor-20261026/smoke-second-failure.txt",
+    "bytes": 9982,
+    "sha256": "8dd2dd4d50370f3d3a6f9cdfca21bfd7d50ad452bb876b4e39e73634bd45ccc0",
+    "git_blob_sha": "ba064e3afa93811b505f1e0daa5dbd7216b6a58a",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/font-setup.log",
+    "bytes": 1233,
+    "sha256": "54e394ab9e8abb850893d4140f91dcc0ce930df23a552aeef10795314252be9e",
+    "git_blob_sha": "9f46d921c840a5d66a6f65a15b8d9581dd85dea7",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/frontend-build.log",
+    "bytes": 6340,
+    "sha256": "7ba287bae310503e165c5f184856b7d895d886f993f1979195103f5b9340919a",
+    "git_blob_sha": "ab9f6f7e2fbc8b44a03692a7bde8ea58836ad864",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/frontend-smoke-initial.log",
+    "bytes": 8835,
+    "sha256": "9fc8d5948e368d53de607ff78664d20f7d03847a8180431f59de69df580d5f2e",
+    "git_blob_sha": "22cca22b8298b73a2f813f7c30a9b18aada67e33",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/frontend-smoke-retry.log",
+    "bytes": 718,
+    "sha256": "8670a37262d9057aafb6b98ed07729f6a3cf97849cedf830e7764af4c30e92f5",
+    "git_blob_sha": "322ba0eff9212543499271c4a01aa31bdc717d3e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/frontend-typecheck.log",
+    "bytes": 52,
+    "sha256": "46268742699a777d67db8524211993185cd09a48fade0f78cec1f42ad0f7a4e1",
+    "git_blob_sha": "5a70671e2b88cfa598dbf1ff3ba767e1ac8be962",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/learning-browser.log",
+    "bytes": 669,
+    "sha256": "d66867b10e18c7aeb797fe93468a56a464969dd023fe62107f5084e0704e8e85",
+    "git_blob_sha": "3717a3d6090641205797cbe6c45098998b825710",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-004.png",
+    "bytes": 112813,
+    "sha256": "d54231e5a44d7c3ba2ab3064c1cd8aa4f46e681040bcb04bf947a61647ec341c",
+    "git_blob_sha": "f0aca0c3b79491f3dddc1f556963733b2c66c965",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-021.png",
+    "bytes": 178665,
+    "sha256": "01057e129505b1049731b586223d183a1bcd4c574ec594e2543dd6adcd7264bf",
+    "git_blob_sha": "82abe88ef4b58f34ee7a270c49e0e46668964c4d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-039.png",
+    "bytes": 196399,
+    "sha256": "8490831f21c0165aa89c6d194ca18697e616b746758de7df7e8091b46aae3e96",
+    "git_blob_sha": "80c964daa1b2542b968abd18d3b96a6cb47061a8",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-051.png",
+    "bytes": 110855,
+    "sha256": "75ed0196bb10865939e16098c731b3c54473984cdc327b1df291fc4cc9f1a52a",
+    "git_blob_sha": "7c747332e69b3470ee791b6180c07f48bcf8a88a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-052.png",
+    "bytes": 114178,
+    "sha256": "b472c4ab1e5bb2cf270d8bfbe082d90a6f3793f44dd57ef5e9e9fe91492903f8",
+    "git_blob_sha": "bc0e779b16efc49631dd6886ae7637db9b0699c7",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-053.png",
+    "bytes": 128700,
+    "sha256": "16a26385e117e1ff7896e173d515e3ec16bb1450ec88d60985d50a85726ffeb4",
+    "git_blob_sha": "37b41e9cdc1fb54d41543db574ba6d3ca806062f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-054.png",
+    "bytes": 179812,
+    "sha256": "749c7e3aabfc405ec8cb25f60de8b1b3c7d4aece99015f8228dad70c71cbbf21",
+    "git_blob_sha": "1d06494d613c896d2271055d0857ef39147d61dd",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/page-085.png",
+    "bytes": 272790,
+    "sha256": "e1e01e1a5ca5d7fe3730a9ad2559c7558c2ac142cdd9b55d5da4c06dbf4791a0",
+    "git_blob_sha": "d0eab4b80a391a1ecdfa7859c814e1df2fbfbc26",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-001-006.jpg",
+    "bytes": 210584,
+    "sha256": "9e669bb80329b9a0183e3cd82e4d3149fa22567e65f76aa9ebe60fc967b76fdd",
+    "git_blob_sha": "8141e836a70afcb645c013d0e40293e743167008",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-007-012.jpg",
+    "bytes": 345129,
+    "sha256": "c8ba81c5b12aa32cd02a26f435254bf58a64716576539c2d91a44b03fd6e608d",
+    "git_blob_sha": "f5ecb8bfcb03231e523c459a5caa76fac2429d3d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-013-018.jpg",
+    "bytes": 185080,
+    "sha256": "a901e1c2a81cdc81d81935ac52f5a22173f2eb7d8c879c24d9fdc2cc4ab8a2e0",
+    "git_blob_sha": "83d1bbd7c7c745453a20643b55f5dd11a6ba1906",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-019-024.jpg",
+    "bytes": 178334,
+    "sha256": "4ccc0e03fa38cf39534ba76a5af6d97803c142519267e014754f1f9a376aeb97",
+    "git_blob_sha": "ff5cfaf585db1e8860a7576e19ff8ca44a113ac5",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-025-030.jpg",
+    "bytes": 130416,
+    "sha256": "ad92215e55ac4b86de59fe5bbb3234ae2c105c91c2cad2b061755929d26fa070",
+    "git_blob_sha": "1d56661f8e798b24d74c312e374bc4bf2b73fb5c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-031-036.jpg",
+    "bytes": 266553,
+    "sha256": "4c5ba5a0bc729db0595b56cf222dfec2df6fa80187c73510a4182564ccb114a6",
+    "git_blob_sha": "0d74967372d539d145f3b12181b8c685981beb7c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-037-042.jpg",
+    "bytes": 229303,
+    "sha256": "c8f0eb63e6e92f761122d4054ed31a010bee286ca168a4f384963bf17f90df82",
+    "git_blob_sha": "4b8473bdfd4ed735d52951c11c2d6358abd03b24",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-043-048.jpg",
+    "bytes": 188006,
+    "sha256": "af578bc3acd87702664e10b537bc74904895da64208317e7489d284462a541b6",
+    "git_blob_sha": "54bedba3c89b0fb4f9e435d950f2a38d7763fb18",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-049-054.jpg",
+    "bytes": 217222,
+    "sha256": "bf23996cae609016fe63b94ed302b4128e4122966139f6e962937a384ca9998e",
+    "git_blob_sha": "515dca6a753da3518f508806ae8c8a25bbaf4269",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-055-060.jpg",
+    "bytes": 251865,
+    "sha256": "ac44377a7177eb6615da5dd8557770967372f5ba96b1935b29e6732f446a357c",
+    "git_blob_sha": "7a033dc1b4a92c070714484a59ce9313e926ab0b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-061-066.jpg",
+    "bytes": 271156,
+    "sha256": "dceaa496634ace11d4b9118d477c3f71fbd4650600a3e396a829cbb47bc4f604",
+    "git_blob_sha": "492ff15128fb45f6ebc795fe09a9f37950de8a06",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-067-072.jpg",
+    "bytes": 171048,
+    "sha256": "eea35570a1ec4a1a808427c4d98ca023908d79852de4758167f3f6609bd83dd8",
+    "git_blob_sha": "daf9fbd70ecccea5fae1e7f6797ebae50cc1624c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-073-078.jpg",
+    "bytes": 156019,
+    "sha256": "317437a99c1fb733c56f59e4585ee3630ac2792cb33457c954f2174fd81f4b88",
+    "git_blob_sha": "03818010329849041e134dd02f51e5a30f179807",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-079-084.jpg",
+    "bytes": 299156,
+    "sha256": "d94cfbbb8eb841b72db86cab406ba89e0a943f56d3ac7b316085f82682e2792f",
+    "git_blob_sha": "939e82a273d4960a418d5b08e78068739a629dba",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered-final/pages-085-088.jpg",
+    "bytes": 157786,
+    "sha256": "53c5821643efbf9b249a7b29dbe89e82f82f5faeebc12165bc0c935bf74fd54b",
+    "git_blob_sha": "299a2c9e1d9dbb8c9d5fcff845c6e53f0a0e8b19",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-001-006.jpg",
+    "bytes": 210708,
+    "sha256": "e33d979a09f3a2452b4a2f388e932d1eebda93054788cdab1c518dd4d4f3bcd5",
+    "git_blob_sha": "e3f3586b88925470a5b2616473af4393759c2261",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-007-012.jpg",
+    "bytes": 345129,
+    "sha256": "c8ba81c5b12aa32cd02a26f435254bf58a64716576539c2d91a44b03fd6e608d",
+    "git_blob_sha": "f5ecb8bfcb03231e523c459a5caa76fac2429d3d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-013-018.jpg",
+    "bytes": 185080,
+    "sha256": "a901e1c2a81cdc81d81935ac52f5a22173f2eb7d8c879c24d9fdc2cc4ab8a2e0",
+    "git_blob_sha": "83d1bbd7c7c745453a20643b55f5dd11a6ba1906",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-019-024.jpg",
+    "bytes": 181940,
+    "sha256": "0402859dac81e247292cd029dbe4722eac246fd4162ede141f419669b4c96c9b",
+    "git_blob_sha": "3a0b09862c0cd8e871a7aa19cf64593a649432b4",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-025-030.jpg",
+    "bytes": 130416,
+    "sha256": "ad92215e55ac4b86de59fe5bbb3234ae2c105c91c2cad2b061755929d26fa070",
+    "git_blob_sha": "1d56661f8e798b24d74c312e374bc4bf2b73fb5c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-031-036.jpg",
+    "bytes": 267327,
+    "sha256": "816574c26cf505b3e5896c2d77d971f13cb86fa398fa6888011e7c3acb2cdc82",
+    "git_blob_sha": "9faa3cfde7b1dd862b296e4dc2244f064c90247d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-037-042.jpg",
+    "bytes": 228957,
+    "sha256": "eff68ae21d318affab6f6b38d219ceac118fc8895edb77b64209d4afa6b5dc8d",
+    "git_blob_sha": "af778b7a3d3e5d15e6a2f524022cf4a34148b46b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-043-048.jpg",
+    "bytes": 224889,
+    "sha256": "29eb0811bd2ce20f7730da18d0d667c1748231b8b25b1f73f4bcd30e71958bc2",
+    "git_blob_sha": "0de967ab4daba36bc37f7ae046a8009c54d4b58a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-049-054.jpg",
+    "bytes": 160089,
+    "sha256": "9919fc3c0bb95c26e30bc1021f6d445c436c42b7fc385e217a08d8993256ba7a",
+    "git_blob_sha": "ea6e94cf3872223dba6600327d6aed45b6560864",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-055-060.jpg",
+    "bytes": 262639,
+    "sha256": "35c5313b838bd99d8c45bf9f8818267d1d9a487dafff41f2d495fd403935dae0",
+    "git_blob_sha": "a714347604b281a399e7d7cd490019c06ee3be85",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-061-066.jpg",
+    "bytes": 232210,
+    "sha256": "3f016b0ce3b0d23f87a85e6feb432a60025d7fb7bdbde37794a6607aa04d1371",
+    "git_blob_sha": "6c0236bc45246c2846bacd83c8fbed4bb0307e79",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-067-072.jpg",
+    "bytes": 215202,
+    "sha256": "e8ace01f439fcab80f19e21fb2d9168635edfe98178162aff5a85994c53797c5",
+    "git_blob_sha": "22c68bdb39f6fd98dc3265ab4c2785ab1cf20657",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-073-078.jpg",
+    "bytes": 152364,
+    "sha256": "34f8427d56165d52c0e2bede2d35290736defa65611d682a99c9b6f404bf499b",
+    "git_blob_sha": "3cc5b8f213e24a89d5d160a0e14ba54f0e82658d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-079-084.jpg",
+    "bytes": 289231,
+    "sha256": "12192ccbe7fbcb191a7654d9d6c2ba7323e51433d7bd325d867cd266e73a72ba",
+    "git_blob_sha": "48e87b05f67542f6deae18dae86f877e5395ad87",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/rendered/pages-085-090.jpg",
+    "bytes": 205001,
+    "sha256": "5c6f693a57c33a7e92d864cc9a2e8ced7cc20bc5d17c3a12f74710f785071369",
+    "git_blob_sha": "35309dfeadc2591c21a314c5e3aecb45b385387f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/3-5.png",
+    "bytes": 27670,
+    "sha256": "f448c0b31b5348ea629644c6454694be2e517c2c8008666733378a38f87b2ece",
+    "git_blob_sha": "cefea2829a19ccd69fb919aac6badf2a0e27a69d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/3-6.png",
+    "bytes": 53888,
+    "sha256": "d8403406e07ffa13c0704a7b239c7b10e1f40807a7eaf51d670d73bb74ddeb7b",
+    "git_blob_sha": "045d5872b06c5275e28da921000c9f682d999a75",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/3-7.png",
+    "bytes": 58050,
+    "sha256": "635b66ffbddbd81ebc454a0eb0b1acb93b725ebfa21ba9998789472a0cf958ed",
+    "git_blob_sha": "9b1b8b299358ad478620e3a5bcbb20764e4707f1",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/3-8.png",
+    "bytes": 41387,
+    "sha256": "236a50257046c1825c445d7818a9c52ace4a90ed6a4cf10abb2b122ef502ddb1",
+    "git_blob_sha": "3bb8a10cee9d895773f0cbc3819f637e67191fd9",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/3-9.png",
+    "bytes": 34489,
+    "sha256": "5771b1f35f8642aa6616efd0502c01fb02d2f8458097a1c094985c0a2b95c94f",
+    "git_blob_sha": "f04ed74499a3c24dbee3c13ee7a06a0dd43040b7",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/5-1.png",
+    "bytes": 57381,
+    "sha256": "785cb419ed915facbc513e48315ed557e5abf5d2fd7f75a8c4d1e238dbe26aaf",
+    "git_blob_sha": "967541536595fd9d2290f7610ab6aef8c3cf33e8",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/6-5.png",
+    "bytes": 55576,
+    "sha256": "7aac9d525515512f47ccc8aa4f7b5cecb9cb508eda860b54661fc6855c33a24b",
+    "git_blob_sha": "6c380badab9f76861f8aa9f87e623ba524860b0c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/learning-delivery-20261112/svg-rendered/6-9.png",
+    "bytes": 17656,
+    "sha256": "5685984be68e48cff23fb094573d454f86d686a890c4b5c280d50ba265c8c818",
+    "git_blob_sha": "5c80fcace0657d0e9843f34df7ea80081433ff5b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/merge-advisor-20261026/frontend-build.txt",
+    "bytes": 6335,
+    "sha256": "40c0e08d7c8d10c280e9c73fd48e773be0693c620148cac979560be3df382ae6",
+    "git_blob_sha": "eefab413572ecab1c32a8801c9bc98c1c29ea231",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/merge-advisor-20261026/frontend-smoke.txt",
+    "bytes": 6460,
+    "sha256": "24f295dc00498659a3eb15cf6ef1a22f4230eac2891ec23e98875a42ef5c9a61",
+    "git_blob_sha": "f36d635b8d4dcbdc2afafeb4b21a22e0c70c9b5d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/merge-advisor-20261026/npm-ci.txt",
+    "bytes": 303,
+    "sha256": "eeb2a162c930930db262a7d87e19b4ff590ef032376235762e8914374dc40a62",
+    "git_blob_sha": "b88ffcbd3123535da11cd4edff7e6f9f08af0fdb",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/merge-advisor-20261026/protected-files.json",
+    "bytes": 7999,
+    "sha256": "537fd1c013acc87115c0791f8de733f78c2c102885dfae0896093fbfc3eced70",
+    "git_blob_sha": "e408c83f2634b9e526c867fddba4e6f5437aede2",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/merge-advisor-20261026/retained-delivery-files.json",
+    "bytes": 13871,
+    "sha256": "d23c80500b5bf1fd2d00e31760c1042f92cd91ad6262791b5f970e2709329363",
+    "git_blob_sha": "9378af9f368aea5ed7aae674f2b9c64a478fb3f0",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/repository-cleanup-20261027/README.md",
+    "bytes": 2574,
+    "sha256": "ca7f430ab5feafd191bdc2d1d59244d4cb9fa0cae3a112370389cf23c3094fd6",
+    "git_blob_sha": "4132ac9d3dd404a0b2c36adec9de6fe1c035f08e",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-cleanup-20261027/branch-deletions.json",
+    "bytes": 3329,
+    "sha256": "ae7b2bb6aea06c5cd8abefe721a5532631ac05509e429097f1545819cc78fb4a",
+    "git_blob_sha": "ff0f3d380fce48a3f22f3d34d70904ac94afebb6",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-cleanup-20261027/checks.json",
+    "bytes": 3456,
+    "sha256": "017a73a790e112705fb24711dbb7d7ba00c447a260743d1797307b77c1e70085",
+    "git_blob_sha": "329d1d63c1b2477b996cfb008669f01bfdf62a64",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-cleanup-20261027/local-cache-cleanup.json",
+    "bytes": 8980,
+    "sha256": "16da4ffb688491c24fe32f89e03fefeacd2fcd616bc4739ceecb7e269c6d7a2b",
+    "git_blob_sha": "7a80b1a37504d6a8d5109079d549fbcd5e854ece",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-cleanup-20261027/preflight.json",
+    "bytes": 72947,
+    "sha256": "9f4a1ca6bd614c795501cf60767f280d5571e1d20933abc5ec24fbda089eb849",
+    "git_blob_sha": "dc913b3d05c55934c1cca75f87fe330e2ca5ad82",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-hygiene-20261027/README.md",
+    "bytes": 2709,
+    "sha256": "02cc9e6e86659881e2e7bcee61596729936ee02213df89388c52df9cc2157268",
+    "git_blob_sha": "73e020c42803cd949243224e5acd9bfee08901f2",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-hygiene-20261027/baseline-manifest.json",
+    "bytes": 123709,
+    "sha256": "d104b0fa73f49b8dff68ca8269c8aadfcacc50b310c34e4214c49fe3d465f55a",
+    "git_blob_sha": "f5d21bafbdffca2f025d848447d95ecf63fa9437",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-hygiene-20261027/branch-only-files.md",
+    "bytes": 5848,
+    "sha256": "8196ef4aaf94c34ad39a1b3841dbd3fe8c1ddf664e331b292a2432a9f501e35a",
+    "git_blob_sha": "27ef0f777a15ce01e950c140dfe48f764345addb",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-hygiene-20261027/branches.json",
+    "bytes": 22644,
+    "sha256": "9e8456882ef782a083e59b78016f16140d59034f8b40f5c18bebe51dde4bb82b",
+    "git_blob_sha": "ae41387a11ef10284591352c52b284de38cbc742",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-hygiene-20261027/checks.json",
+    "bytes": 3101,
+    "sha256": "06d8655ef1f281eb109311f8c70c180bb4cb7ed183db44637386e16ada8467c4",
+    "git_blob_sha": "f0be88b09d041aad03c15398fe78be61a712d747",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-hygiene-20261027/inventory.json",
+    "bytes": 6244,
+    "sha256": "78bffff6cdcb382ff0a2b423ebac73f4e5cca15e48fc93012360ae69cc5c846d",
+    "git_blob_sha": "189873f0982811624fff9bcde407a3b238f45188",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-maintenance-20261028/README.md",
+    "bytes": 2158,
+    "sha256": "9c5ffa412f6fd23befa64d5f923acf7be1bb977c41d271b8521cb2d04d85605f",
+    "git_blob_sha": "57d3409b01ad40589e7da99e64ce41fc5af94841",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-maintenance-20261028/advisor-cache-cleanup.json",
+    "bytes": 8833,
+    "sha256": "22c2af9be6c85ff7baec984e3f9e6bf7c8a75054c11cf40d83c5913493d56160",
+    "git_blob_sha": "d945018b669e66d51e9d6487b26742f70614a928",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-maintenance-20261028/archives.json",
+    "bytes": 51923,
+    "sha256": "dbf5e573dce1c2a4e6bd882eb55b788becce1d59538a69f59314c6ef49fe8bd9",
+    "git_blob_sha": "9e262dd013a7f566d05aaa846073eb85caa997e0",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-maintenance-20261028/branch-cleanup.json",
+    "bytes": 316,
+    "sha256": "3c26155c59e588a3f322c8db500d47d0f9820beae25f57103a0da8fd4e579bc0",
+    "git_blob_sha": "ca865f5e23def1fb30a13dad10547d1ef7f9d0da",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-maintenance-20261028/checks.json",
+    "bytes": 3499,
+    "sha256": "e527151e41f20d2aba67c7ccab4c4af535fcae7b7ba6991e0d5219bf685bf8ce",
+    "git_blob_sha": "0c8690bea0eaa88eca5d8e30d3706ac71d93d0ad",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-maintenance-20261028/default-branch.json",
+    "bytes": 467,
+    "sha256": "c6b5ae57c40ac73150ad0cac9c4d2412c98cf2ccce7640a46528273c9bf0ad6e",
+    "git_blob_sha": "16270a95c671dd42939f92d4425ef3e517ac6c73",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/repository-maintenance-20261028/preflight.json",
+    "bytes": 135144,
+    "sha256": "4d60b890d155891b88b4574b6dd884cf5ea400761e1ccd1ea15593bc7ef4e692",
+    "git_blob_sha": "03bb64c6479fa6ac6ad72305920a8f572e48bf2c",
+    "reason": "旧仓库维护记录"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-1-pdf.png",
+    "bytes": 99267,
+    "sha256": "25255be0b647900d998799571e3ef02be762875d9b5d6185dc44c5d88cbb9a93",
+    "git_blob_sha": "c2e646cf3630a8b429a8b5eed2eb504d7eec8dbd",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-1-svg.png",
+    "bytes": 84978,
+    "sha256": "caf16a1afa978c620c90aca4f58173a73cfa9699fbfc23ca99330bb3ad51233b",
+    "git_blob_sha": "1dad406ad34473ca0242361bf269deb26dcb3661",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-2-business-pdf.png",
+    "bytes": 91499,
+    "sha256": "eecc99922cccbc7f9ba6b57f124bed164d9ec4b302dec6808503aba8f9ffe5c2",
+    "git_blob_sha": "e0e70ce7b530d3bf8ce9ce22d42c92e8424d1a68",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-3-business-pdf.png",
+    "bytes": 101162,
+    "sha256": "a758d33c2a99c914d15c7de7e4e767e3bb24f4442047dd696c3741dc3424e3f5",
+    "git_blob_sha": "012a1591f86cc228b9d4025a93f2889a0466e498",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-4-business-pdf.png",
+    "bytes": 68950,
+    "sha256": "f4cbdfac36999dc8c60a4df7a9824cf7a49fe04402c8ff98ceb29517646766ba",
+    "git_blob_sha": "526111392e26e9102f4692260c2ea798a2176d6d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-5-pdf.png",
+    "bytes": 45888,
+    "sha256": "472328ffbda33e07f444eac60089ec0ccda56403ef4ac300c7b440fada371fbf",
+    "git_blob_sha": "741acc8e0b9f43fff41a67c2c7eca31d9c79d582",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-5-svg.png",
+    "bytes": 43206,
+    "sha256": "1269dd162ab007dede39b4e0998ca1771738cf6b0ad733164365fbb52f806d54",
+    "git_blob_sha": "ae96d522569e9238e56f0953cd95885162c1b45c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-6-pdf.png",
+    "bytes": 80987,
+    "sha256": "c94a8556392c7b35252345d68fb051f657794225b3f8d457735afc5f433b9cec",
+    "git_blob_sha": "620e1f4968e17b9a6a087de79a378fda87dae96c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-6-svg.png",
+    "bytes": 81763,
+    "sha256": "661311f013c07c8ac5d6dcd0268f3372302279cc2a1da396ab1193280b4df1a4",
+    "git_blob_sha": "29dff99f1bbd6eb139057035e8d3a3e8d0a8f76f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-7-pdf.png",
+    "bytes": 88041,
+    "sha256": "fdcd5121411c693bd330bab6118e8d00569755814a453748355736213756fd99",
+    "git_blob_sha": "e4004a85db086cb5c9a7093182184c5dad744ac8",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-7-svg.png",
+    "bytes": 87958,
+    "sha256": "993a9e5be4f700a5f8a4261801b2689bcc8582007486028e5020f4d13687d642",
+    "git_blob_sha": "da6b080daf4a4cd69745df3804a14eecbc00965f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-8-pdf.png",
+    "bytes": 65520,
+    "sha256": "6fa6b048d1e0f8080dbcdf401c12ca48e0cc63a793e44d162e666ebb87c2d542",
+    "git_blob_sha": "6d209df451c5a1a59112857ba6286a6c2636decb",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-8-svg.png",
+    "bytes": 64577,
+    "sha256": "b318636f4a7d28cc21bbc640b05a574f97a7cf1dcfd128d7e379c8f53e8afce8",
+    "git_blob_sha": "7587248ae8181e0c5263f336d78fb0e41fca942c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-9-pdf.png",
+    "bytes": 56909,
+    "sha256": "52db98d5c91dd23c890d6073da6ec3ab7a3ce750045e14bce3b495b0ec8d9bf5",
+    "git_blob_sha": "50bdf1a757c015a7a4a8a4f876d689ac0c97c216",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/requirements-20261112/3-9-svg.png",
+    "bytes": 55942,
+    "sha256": "882a8a1834025cadc45d900c4559a7c2e03fe622858813234f39817c234e824b",
+    "git_blob_sha": "7917d20d89341919462500b702b875bd215babb5",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/backend-first-network-failure.log",
+    "bytes": 1824,
+    "sha256": "c32cb8ede70d86d48ccba355eb68f799f82f387ee8a3a5e5a7205a49cc7cfbe7",
+    "git_blob_sha": "42fc47d12868fb3a4ec91e223c5c29a973488334",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/backend-runtime.log",
+    "bytes": 62332,
+    "sha256": "a55636f170bc2344ccf55c696cd605a7b852469a9a2f29886d5efc338251f961",
+    "git_blob_sha": "fb8d66da3295eeb43084224b2df5dfa5a28050cd",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/backend-tests.log",
+    "bytes": 389120,
+    "sha256": "6fbb124aa72127900ca6feef708ccbc949cc8318d35b17cec874723f3840241f",
+    "git_blob_sha": "143c2197d9f652919298b9814619d4e80587ae30",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/browser-first-startup-failure.log",
+    "bytes": 7505,
+    "sha256": "188ec2fb7cd8590245434e1bf61c78ca8963c03b657d513d1dbf5131283d00f7",
+    "git_blob_sha": "23fbc8f43ef39660002975932013564369e9f56c",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/document-check.log",
+    "bytes": 1197,
+    "sha256": "af89c00c96ace815c0a93102eeba323ce6f32d03006644c457b53ddd2d5576c9",
+    "git_blob_sha": "5c8ea6ba4e69ef37f19f789e51bbc16e948e48b9",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/frontend-build.log",
+    "bytes": 6340,
+    "sha256": "3e947adbd22d11d6977f3de6113c56b5462d5475311396700a1ea0ffecd134c5",
+    "git_blob_sha": "17a2dd58e9a052887e28db3ad555096326c3bd2e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-01.jpg",
+    "bytes": 391714,
+    "sha256": "6f6025a67be31fc073839f1499f5f4b3d7a8a4e91361033886458602d44bb1ac",
+    "git_blob_sha": "0efc0d73cb20f97f62d62daf189ce2874686c281",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-02.jpg",
+    "bytes": 419964,
+    "sha256": "df90d780705b288cb40566fcbc7cd33befb712e3ac127ddacf6450fa874070cc",
+    "git_blob_sha": "73f86cb36b30c91603cb9c83cfeb94d7f310b5a2",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-03.jpg",
+    "bytes": 556858,
+    "sha256": "d7e777bcdbe885ed06fc04d947c1d6722d1fda2e2daf9cabac25097202c2b51a",
+    "git_blob_sha": "87461627b694a6916cf543d945d232be58b644f0",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-04.jpg",
+    "bytes": 785951,
+    "sha256": "592ab9fe871cfed0b7b53fe828cc2c09f5944f4bb6bb562de7ed57e122496055",
+    "git_blob_sha": "d965b26057da3aa2311a1de32508fc9769a4d0a0",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-05.jpg",
+    "bytes": 445573,
+    "sha256": "97b946e78b3aaf60dcfb0bf6a9573f63a5dfcf16b6cd776833e1304f8bfdba9b",
+    "git_blob_sha": "ea11789914b873251cb5aecf3927d83784c32f95",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-06.jpg",
+    "bytes": 387878,
+    "sha256": "f9a99fdeba96d7a548929997882c32c9d4c9d9045ccb8b9f5c47667e1be46b51",
+    "git_blob_sha": "69606fec6de94bd1668a7fb27082c922e3cf9ae5",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-07.jpg",
+    "bytes": 461472,
+    "sha256": "c3a4076d60f0cf9a7b2bf48f0e27b6d5d8d6f0da49721b5414c5a155a395d862",
+    "git_blob_sha": "d1c1b124a5bf16d2a9c4e4a5ac6fab13ed615422",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-08.jpg",
+    "bytes": 451933,
+    "sha256": "354ba9659c1d4d807ef3c52107f92a192f9234bb59fa4e705b63e5c0c32465b6",
+    "git_blob_sha": "5b7acd1f1aedcf6536c1417608ba5c6bb4c22862",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-09.jpg",
+    "bytes": 696595,
+    "sha256": "be16a293c58770f8a6452c715bdbbf76d7fd53b200d41a1bbcaea4fe776418a8",
+    "git_blob_sha": "1dba5834db8a83ca93d8bc3775553c657f6b99b4",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-10.jpg",
+    "bytes": 494956,
+    "sha256": "95d97b572fe2523c549be96b197938aee9506a396ccf205b883685d5671c9483",
+    "git_blob_sha": "05553722cab7caa9c2bc3d1ab31a95c3551adf61",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-11.jpg",
+    "bytes": 530118,
+    "sha256": "e2c9379043b0e330d4aa19ec487185bd1f36b43bdff20d00ec1f7fabebd3477a",
+    "git_blob_sha": "665641deecc3428a7c9f7ff5817282889315115c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-12.jpg",
+    "bytes": 339561,
+    "sha256": "8305030c92ae790623c6114398c64ddaec34fbbc079e4aabe3c4da1913913ca1",
+    "git_blob_sha": "2947604f92360e703694a692bac403a136a90b0b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-13.jpg",
+    "bytes": 486747,
+    "sha256": "d6e2b8936ba207d979826166820398c1bf2a3caf76ef05a25f899d40d84285ed",
+    "git_blob_sha": "9860b0d0f5702839099036735437280204495a2f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-14.jpg",
+    "bytes": 608908,
+    "sha256": "18055f07798a972d334c7ed42327e7a29912740a4ee20d3da35b715babc32e91",
+    "git_blob_sha": "0e3b034e8633812f87b436536346121814c0baf7",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-15.jpg",
+    "bytes": 590459,
+    "sha256": "e1085d8f09c48e0529301a4864ffbbdb19b0612df9c01fc70fa33fd9d1a049d3",
+    "git_blob_sha": "8e602ac2c644369e840764e215f20a746f15d13d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-16.jpg",
+    "bytes": 673772,
+    "sha256": "61b5960c3a42104cad3601d2b9d9f9a464258d7f8e441155ab04d34c115d5a1b",
+    "git_blob_sha": "94e698ed1e0cc23fd61ac452b26bfb98d064798a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-17.jpg",
+    "bytes": 626437,
+    "sha256": "0d0f3b71bb38c195c33e133ef5432fd58b7c3f17fa4a918c326a8f19e905efde",
+    "git_blob_sha": "cb1fc509f3b7161370a6a2f3caeb4ebb9dbd8db6",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-18.jpg",
+    "bytes": 666072,
+    "sha256": "3fd6386bc4e369db2235181ebf7daee68b32ab4a1db71c567c47051e5777e228",
+    "git_blob_sha": "32ea61c646700ef869e55ee966f68ecc2240220c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-19.jpg",
+    "bytes": 513886,
+    "sha256": "4701a6558a7fd1fefc772918ab972ff9a7f63dcbb79bb1c8b31950ffb9ce8aa5",
+    "git_blob_sha": "eec467c920c6db923ba92acdeea263d22ce9c272",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-20.jpg",
+    "bytes": 316056,
+    "sha256": "1e045bffbf4d2bf0631feb07e20ae44e8cb4e02d593abf108cdcf0f75a2c85f6",
+    "git_blob_sha": "76eba40f65ab4aaa20a61367d3290af84b888b1d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-21.jpg",
+    "bytes": 497961,
+    "sha256": "fddb4e686abb77100799e6f3bf5e544eaa4b9cc62de4bfe7382a7bb21014149f",
+    "git_blob_sha": "d7cd96b9380cece7dd46e704b1329a957d7b2de9",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-22.jpg",
+    "bytes": 691938,
+    "sha256": "f5bcaea1c0b5fec9958ae8e82a5d4808f6b958978360ff7eadb43401bb7d4416",
+    "git_blob_sha": "6dfd5ec1adbd4ee1efb6eae6ad2fc42dc92a45ac",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-23.jpg",
+    "bytes": 684353,
+    "sha256": "405f74bc2673da903fc6a6866d436a5c2768bf2d4d8930a095bb107c71490884",
+    "git_blob_sha": "9f896ef467aac6fe426ad8df9824f04c1a54553e",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-24.jpg",
+    "bytes": 508702,
+    "sha256": "e64f6efc7c08bde7ac2c6468ce3aba0f8e434741f3bf5c64e4b1d314dc9115b4",
+    "git_blob_sha": "c79382aefe2c4b4ace4bfd6bf9a1328da1b44575",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/page-proofs/sheet-25.jpg",
+    "bytes": 319557,
+    "sha256": "c219e586704b2457d4133d27586d35952471c80e919f2b4367689e842daa7573",
+    "git_blob_sha": "7ca5b0a81f1955b5a7d664647f55de1a1398f06c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/protected-files.json",
+    "bytes": 93400,
+    "sha256": "e56365574b6a2a415e33fe869a2f033117e94deb76401645d752998cc1625bc0",
+    "git_blob_sha": "aa8ea1f4f95752251e281a6fe38d0b6348c9aa26",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/screenshot-capture.log",
+    "bytes": 68,
+    "sha256": "aba9bf7cbbcc4bc4789be4526351ad22afe73176347f2b7d51755ea8033d76d4",
+    "git_blob_sha": "ab7fcbfc5c8365d43165c5e65ed9c41cee7cb4a6",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-align-reference1-20261113/screenshots/learning-loop-mock.png",
+    "bytes": 177505,
+    "sha256": "458e86395cfe915905bcc3685fe45acc2f136cea42efff84e8cfcfb39aacac61",
+    "git_blob_sha": "d4da383a36b1e4c591bb26d32d8b92fa2e070c53",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/backend-first-environment-failure.log",
+    "bytes": 2030301,
+    "sha256": "3015709bcfd779dce8c3abf17853ff6eb1cdf58a827bf882fe291c93a8ce41c0",
+    "git_blob_sha": "c8973941cf5759f699b007daa989a011ced6ccbc",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/backend-runtime.log",
+    "bytes": 86646,
+    "sha256": "f5b0fb56ed709af0f055c104cc1f3c4ac7759179425fce59a6d41eb13da31a54",
+    "git_blob_sha": "b794673a7c7c7f8fd1e5cacd168b15108a7ffa11",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/backend-tests.log",
+    "bytes": 33415,
+    "sha256": "f38f8d423686bcc89c290b710ed386728fa76410aec2d6611523e2f15585a628",
+    "git_blob_sha": "30244b7dff85a85f7f489ce5fb4f9868569120dd",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/frontend-build.log",
+    "bytes": 6340,
+    "sha256": "8fa713a853a697908fc6fa16d71b2a95e2f241802e99e095bca02620037f78f2",
+    "git_blob_sha": "7aa8f298e52815bf8ddf12798457fd60d72a38f3",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-01.jpg",
+    "bytes": 390856,
+    "sha256": "d73123f55010f3a18f0b7fef33a4d4906f52fc72b9ec63b13de56a6a7cfb4d6b",
+    "git_blob_sha": "c1633fc5a50ff0c0ffbe7864b7d501b4bc62fad7",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-02.jpg",
+    "bytes": 502999,
+    "sha256": "af133deddcf929d2e31596a4d47ede3ba209f1a01c180906d1aa17ea70cb175a",
+    "git_blob_sha": "e1c86d91a991de66ffdea9ad32de329ec0e01891",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-03.jpg",
+    "bytes": 703306,
+    "sha256": "0c95c6bbb906bdab5096f3320f8f80e4390f68941b3746e9b9013ad518f3bf97",
+    "git_blob_sha": "48c777d75dfd4dbee72a1a6fc4a6090a3a6a565d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-04.jpg",
+    "bytes": 554849,
+    "sha256": "ce2b5054e9e3b39bd9d388d9fa21441b6f8a40af5177821e7191083f00b67cc9",
+    "git_blob_sha": "a0382d9c5be1c4bf6b9d19eaebd967241675188f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-05.jpg",
+    "bytes": 299135,
+    "sha256": "b87bb550f6c0ee5037e7b171b13584ba040cbca53919300a4d28ef8c1e0f92f1",
+    "git_blob_sha": "dcd5e487d4d3204c9e81e6335423cdca2c3092a3",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-06.jpg",
+    "bytes": 473354,
+    "sha256": "92dc1119bff12cebf003d223f75ea1a5789e873d699273cb4ac2368318fdae9c",
+    "git_blob_sha": "05ffb17bdb5df796778727d9a7b6683d21744d8d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-07.jpg",
+    "bytes": 265723,
+    "sha256": "19813e7ed6461a188255de625f78908ff5dfb0ebd1d448c3ebf6a5d352552501",
+    "git_blob_sha": "ac2d183ad22bd76c2f0f7833f6ed5af5e60d3e33",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-08.jpg",
+    "bytes": 298446,
+    "sha256": "66bf56a1e8f7e3dd0b810919be0b496a2c0f7d424689998a4ff6105393b6adab",
+    "git_blob_sha": "cdda6a21655d02b6d3eaf123092894fc0d7a551f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-09.jpg",
+    "bytes": 714269,
+    "sha256": "4db640678f1aea407487cc4ccda06557dbade93fa39ce4dd2b8bbfd2ee2bf106",
+    "git_blob_sha": "730438aac43b63886bd2b6d3cd4adf7a1703c7b1",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-10.jpg",
+    "bytes": 542822,
+    "sha256": "fb4095b5d93e5a972bca7d1ac1ee6c850451e9f6c29da6dc242b7c883fc3f5da",
+    "git_blob_sha": "b5eaade31b77d04512c2788fbbb85fd9c9b8f641",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-11.jpg",
+    "bytes": 391013,
+    "sha256": "6580ec940096ddabe8e14edb4b4ad7fabcf78f86ffb1742560066ac5198aba2c",
+    "git_blob_sha": "f1bba1f928d9d3b30fc95eed48057cd4e87cf403",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-12.jpg",
+    "bytes": 377973,
+    "sha256": "97fd1621df6c580d80072d9619900a77e4bfb86b1b2c1aec1141fa483c0c0646",
+    "git_blob_sha": "c037fa51d833a5a628399f1c646ed2c31634a20c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-13.jpg",
+    "bytes": 440246,
+    "sha256": "921c6abcc63f2a3e637e850bfde642743fc0268e1618f2f02948cffc06d813e2",
+    "git_blob_sha": "377d8fdce3c82e81621157d3ff7101b1c1988824",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-14.jpg",
+    "bytes": 534647,
+    "sha256": "a27dc9921150a8ab1dfe37c27d383bef4dcc27d523fe2b3648f6e63ba42d1209",
+    "git_blob_sha": "0591851c4f3d7d13d356b688c15c31753399239e",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-15.jpg",
+    "bytes": 543893,
+    "sha256": "c3485a5a61c9097afc13cbd35a18f27aa9bebd77eae244995a66d41491ff19f9",
+    "git_blob_sha": "d505f6a5b8195251f53ac9812f23aab3dceccaa6",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-16.jpg",
+    "bytes": 433237,
+    "sha256": "6623b52dd21cdf994a37f5d7fdfec5beb3f931243f876a9e4e0f96b3dcf10d67",
+    "git_blob_sha": "90d3544019a73147043de2374674566e312daf84",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-17.jpg",
+    "bytes": 733070,
+    "sha256": "db21818bfc9281dcd3ac8583eedf8f41054dc68c4a517cf810a54f7168fc195c",
+    "git_blob_sha": "691fc9b8c18c2f958c41f9247afd0f7ee23f5f57",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-18.jpg",
+    "bytes": 249489,
+    "sha256": "bce72d634c1f0baa81115340b46bf97a8a00f97165f4e0c76b474dd000d79021",
+    "git_blob_sha": "268b433fe9b79aa57c9036f5fa39f761835009d0",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-19.jpg",
+    "bytes": 286591,
+    "sha256": "b5832c61bcc2496132e598e35b3464da9e16efb3cf8ce948211de0be86feb0d7",
+    "git_blob_sha": "4a84f3e2889bd313c483b608eca2eb2d52d45add",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-20.jpg",
+    "bytes": 447462,
+    "sha256": "0e50989ca0fa8e31d4831183b099f21e5a98146eca6349f0125e9430375e86eb",
+    "git_blob_sha": "2d66c4b2c68108944e8925cb4c23cbb28f0b7dc6",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-21.jpg",
+    "bytes": 718023,
+    "sha256": "84aa3ff057f1c3b235186adfc9c3cd38333522c3e3d611b3b5221d0810a6afd2",
+    "git_blob_sha": "c6296ddf270f00ae60f27253a5bd8557218ddd05",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-22.jpg",
+    "bytes": 586853,
+    "sha256": "4652493d38b8e815091a6cd6a017573f93ccba9527b08a3e308dd87dd31a4ff0",
+    "git_blob_sha": "5599a79bfb69560808ce4c91c4a2a98bb46655a7",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/page-proofs/sheet-23.jpg",
+    "bytes": 139959,
+    "sha256": "dc478a36cedd5160ef4459dfdbec13825bc3fe48a27b773bf51bbed974cc3e6d",
+    "git_blob_sha": "a792b30378dd337a0b74e45336ba14d78c61df4c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-audit-20261112/screenshots/learning-loop-mock.png",
+    "bytes": 177188,
+    "sha256": "0471dccb65cc4a1e1b43d562617f37c668e6c9af1d9f740a02a573688b8ee09b",
+    "git_blob_sha": "7d464f55914fee929efe9340792933bcf954aeac",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-1/baseline-files.json",
+    "bytes": 171060,
+    "sha256": "f2be98484bb0877a7ed08bd0ef5fe7890561892de071dd03f9ecd631b90365ad",
+    "git_blob_sha": "2bd86703d350079626efd6ba4c0efbc8482c04db",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-1/build-1.log",
+    "bytes": 111,
+    "sha256": "376620382f6a62d282a6790b5ca11eb9c56efaa999c70ce0e6bddb8240e8430d",
+    "git_blob_sha": "57f62577b8510591f9c5fc23454a02fdb6a4a44f",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-1/export-1.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-1/libreoffice-install.log",
+    "bytes": 1075,
+    "sha256": "a682ad79a0f4a59949486cb51d0e1f9310c2afcac320ddca3eb23f8b6c794e7f",
+    "git_blob_sha": "0f6f4f09ee012e87d294a954edef955c0a675375",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-1/windows-optional-fonts.log",
+    "bytes": 141,
+    "sha256": "fab5e35a87d66c3b94eaaf04a35dbf47c58e5cff6e0e7378437db6e335502a02",
+    "git_blob_sha": "95a37bca0e27dda4d72857d57e516e99f9dbe36d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-1/windows-transcript.log",
+    "bytes": 1996,
+    "sha256": "5761fc0e7b13f9c27ceeff4e674f98d80e405a3a5981376977f8a5ce79cddf61",
+    "git_blob_sha": "8928a60f5164781b3f8cab8885bafe88cd61f214",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/baseline-files.json",
+    "bytes": 171060,
+    "sha256": "6961e501266e7b330e9fd35ea6b47e9757087cc05669ab99fa30ccae990beb60",
+    "git_blob_sha": "019baa6307550f5e1744cb6e7ed86426b2d1abb1",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/build-1.log",
+    "bytes": 111,
+    "sha256": "8d6767a5af0421e666538e4c28bc0afd19165176a2d3f0f05a8d83a4fecc3656",
+    "git_blob_sha": "2484c2d8bbd12ac9475487b091f21ccfc1e00848",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/build-2.log",
+    "bytes": 111,
+    "sha256": "8d6767a5af0421e666538e4c28bc0afd19165176a2d3f0f05a8d83a4fecc3656",
+    "git_blob_sha": "2484c2d8bbd12ac9475487b091f21ccfc1e00848",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/export-1.log",
+    "bytes": 237,
+    "sha256": "9ae2747401d7d3db12ac3519c6af2a070019f4ddfae95b9f75598c20a0ce2e71",
+    "git_blob_sha": "7b8b703161c7172537fcdbbf5ae075d88f14b619",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/export-2.log",
+    "bytes": 237,
+    "sha256": "45abc1576429a476a306e5f854e688bc5918c2ee54e38875eb193d155dc19b08",
+    "git_blob_sha": "e2344bc5d3134ad877454f5d0ec5862cedfe86df",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/libreoffice-install.log",
+    "bytes": 939,
+    "sha256": "1adf96b1212f42d70390992ed6df6a96d519046f6f19969c7eba60e705059257",
+    "git_blob_sha": "a3079261f23195ebfa0ac16f5b0b24c57beb5066",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/page-map-1.log",
+    "bytes": 61,
+    "sha256": "f691c12edd2733937b9086f27c1c958b4e21e80d24c67a40a622bd29a4270557",
+    "git_blob_sha": "8e847b3eec014f7a0976d26a58007e2c74ee2eac",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/page-map-2.log",
+    "bytes": 61,
+    "sha256": "f691c12edd2733937b9086f27c1c958b4e21e80d24c67a40a622bd29a4270557",
+    "git_blob_sha": "8e847b3eec014f7a0976d26a58007e2c74ee2eac",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/windows-optional-fonts.log",
+    "bytes": 141,
+    "sha256": "fab5e35a87d66c3b94eaaf04a35dbf47c58e5cff6e0e7378437db6e335502a02",
+    "git_blob_sha": "95a37bca0e27dda4d72857d57e516e99f9dbe36d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/attempt-2/windows-transcript.log",
+    "bytes": 1860,
+    "sha256": "f0464b758e31c53f41dfc5bfa7b62ec808d49b512822c580fcebf54d133b6444",
+    "git_blob_sha": "4fa6a13b3ec2604a98dcad7e9ce6df9655efb219",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/baseline-files.json",
+    "bytes": 169438,
+    "sha256": "585e5b63b480aed569db72a60d792671d9fefd2f33f6f3736ac7e93e7569585b",
+    "git_blob_sha": "3eddb6a771c535137e470db40243350e9eba1a50",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/independent-pdf-fonts.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/negative-control.log",
+    "bytes": 644,
+    "sha256": "cbcab3aee3e8bc525d107cee341bde37077836d5931f7b69ad5c8a4eb5519a4e",
+    "git_blob_sha": "9a4fba4e544c27255f05c6d37ca1403d94bd1e44",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/source-diff-check.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/windows-attempt-1-job.log",
+    "bytes": 28915,
+    "sha256": "50b290799ce6d37fbf9611100f01c6e302480f1ee6895cb9ce0c36ef4fc24183",
+    "git_blob_sha": "cf2367db15a752f978f1750c73e5e73dcc68f389",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/windows-attempt-2-job.log",
+    "bytes": 27269,
+    "sha256": "4c13afa2478396cdb1c9717e36268440ed0d615ac5bc2885401ca695286850b4",
+    "git_blob_sha": "bfcaac0ff66bc535e358398b4c07ba9120e49ae8",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-cloud-fonts-20261114/windows-attempt-3-job.log",
+    "bytes": 24811,
+    "sha256": "625a0b1333791b297c431d2f768a33da7c8fcf05664070feb8408b74b85474d5",
+    "git_blob_sha": "ea7c62f6e95667a1377f7031b68b22522f901328",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/baseline-files.json",
+    "bytes": 149846,
+    "sha256": "28fb3065b17aed1b9799edd1c8d2bcd572218ef96447ff58196b075180b03682",
+    "git_blob_sha": "19f7397335312a67267f33b8597010b4a5a7b81f",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/build-final.log",
+    "bytes": 92,
+    "sha256": "707852fb2b44240f0f104d6922065601b3e27743e8612e32ca7ee1f41c8999e5",
+    "git_blob_sha": "8f6cbfe167315a4c07962033e5d863454ae17644",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/build-first.log",
+    "bytes": 92,
+    "sha256": "707852fb2b44240f0f104d6922065601b3e27743e8612e32ca7ee1f41c8999e5",
+    "git_blob_sha": "8f6cbfe167315a4c07962033e5d863454ae17644",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/document-validation.log",
+    "bytes": 1197,
+    "sha256": "b8b895fd37523a8f865874fc3bba449ae91cccae7b8b65c35797881b1b0d085a",
+    "git_blob_sha": "820cc6d127fef000e9550ea93b7bde36bbbf222a",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/export-final.log",
+    "bytes": 352,
+    "sha256": "189fbec1cd6b08370b8ceb44ff038f21b90eb9e6232f16dfcd3164c645c4674f",
+    "git_blob_sha": "2cdb944a3e15a0467a33eb9263f016ba8e32a220",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/export-first.log",
+    "bytes": 248,
+    "sha256": "65af1830446f61e99b5f05582df302d58a6dac21054b5b9a416aa6346fb54cf5",
+    "git_blob_sha": "16e6f8ea25b3ba5503d5d1d6b89ffd6d7e2a89f1",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-map-first.log",
+    "bytes": 60,
+    "sha256": "e966ffbbad90debb7545b4fa0f58b23ba6e37ce175b0e369abeb14faf4099b38",
+    "git_blob_sha": "b798e4d2b90601f9754325b11fb54f02d5bec1a8",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-01.jpg",
+    "bytes": 391714,
+    "sha256": "6f6025a67be31fc073839f1499f5f4b3d7a8a4e91361033886458602d44bb1ac",
+    "git_blob_sha": "0efc0d73cb20f97f62d62daf189ce2874686c281",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-02.jpg",
+    "bytes": 415226,
+    "sha256": "0e83d23982527032388badc17dca272853a6e718a55bb6aed2581c56f223aab6",
+    "git_blob_sha": "527049e2ce67a4dce04ea6ab2129eea5d6f56433",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-03.jpg",
+    "bytes": 550836,
+    "sha256": "d0f19c64024251bb922e7219af609c7e7eacea4ebd174115c2bea4c9566946dc",
+    "git_blob_sha": "140e164375f8218d242b576b2f38aaea16eaf833",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-04.jpg",
+    "bytes": 776625,
+    "sha256": "d60b5ed3f0cc061daf13ed69545fb9a1e894b9c0c779cd248d2b842f685f6beb",
+    "git_blob_sha": "c842f0e830858e114056f7232fcff61a91ef2546",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-05.jpg",
+    "bytes": 421750,
+    "sha256": "dd3bec08b50928330ea74fc76d80b465746487895a5de6b294a44ab31ba64cd0",
+    "git_blob_sha": "0b05e3c815dd22e6a481370809bdf54a0d9b6388",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-06.jpg",
+    "bytes": 377155,
+    "sha256": "f59713dc36bc2f882f5414daf0f12dd6c3e9bd5aa12dba8dcf833aa87bda84ec",
+    "git_blob_sha": "a546ee29834290fa70c637e7aad37550291b4c29",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-07.jpg",
+    "bytes": 452769,
+    "sha256": "6190012fc9810d5e3feaf3c0e1479d055dc8a695c9adc75d9a70a684102b7619",
+    "git_blob_sha": "391e61a0f4cd1197e416dbfbdf7a234b6c534035",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-08.jpg",
+    "bytes": 451398,
+    "sha256": "735c9b2e47ef3c4766997b9f2ab4bcb965af7cc9b39189194b340a8b2932abe8",
+    "git_blob_sha": "70f905b559dea50ec5f2df41a14487443c6e60ee",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-09.jpg",
+    "bytes": 692188,
+    "sha256": "e3f8d2236947e15d03dd1571645d15e1617a15687222f525c3a3a3a8f4a709fa",
+    "git_blob_sha": "e4bbbaa984543d95d277ef67e9895386d7db6e03",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-10.jpg",
+    "bytes": 481497,
+    "sha256": "f89d698b29adc73a0419414e263a05b5e8bbfc47127ebc001d4a18991eb4b8e9",
+    "git_blob_sha": "b46272420d9e7c0971998a3562f3f50808f0657e",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-11.jpg",
+    "bytes": 538626,
+    "sha256": "6ce29e1f4431072a91899e18e0f3ee871f0e960bed1db23f963c3092fa087b76",
+    "git_blob_sha": "5f1ab6286a6b0b1c12b77df775c70517f9e87296",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-12.jpg",
+    "bytes": 348714,
+    "sha256": "4e785e2841ef90b86d08fc0d794d58c8241b2dd3c0f8fe73d0bc29d07f540ff8",
+    "git_blob_sha": "3a6665d22d2d772ec2286512e142b9b8c21792ba",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-13.jpg",
+    "bytes": 486549,
+    "sha256": "f1b19095caafa6a2452aa6c0f46b40530b9a1600c420fa161dac866a1defe38e",
+    "git_blob_sha": "4e5997f2f4d1a0df26be3a6f9c2980aca1de53c0",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-14.jpg",
+    "bytes": 602481,
+    "sha256": "d8b4ff474ec9b4fd179f858d61472dad881c6e438fa478b47666c5a1bce22a14",
+    "git_blob_sha": "d93c026d1aa87c73d34561833305d1f45ff2307f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-15.jpg",
+    "bytes": 580408,
+    "sha256": "09dafea430f436efa820db049e1d639d55a090f66454415546ae9299e96442b8",
+    "git_blob_sha": "5c96776fa1689d6c7b6475f42357e33ca5795820",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-16.jpg",
+    "bytes": 675905,
+    "sha256": "aced9e2a7439d6f2ecea6adad72fc20e6c69a37701d2aca6ae0aeb16808262a9",
+    "git_blob_sha": "c5dfa5372e234ff6c9b29ae64d760865eaa77fe4",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-17.jpg",
+    "bytes": 628373,
+    "sha256": "0124e19acc509356ac959b2cfb3d68b42e299c3c74c063ae46e03463069aca6a",
+    "git_blob_sha": "02de56f92a08e9ba8e9513910e2b5983a55202da",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-18.jpg",
+    "bytes": 666225,
+    "sha256": "fc641e1e439d7165f149c4345c4b574a40d303d90748808d6f6b8bef5f748dec",
+    "git_blob_sha": "ccbe94cdf4c90a8dffb8f4e2d09053c3b9c348b1",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-19.jpg",
+    "bytes": 512182,
+    "sha256": "b265f26da80cee66ae2683245acf18367272e0cc54f7cc30bcbbbeea98250101",
+    "git_blob_sha": "c57d9aec4d567f502a8d332c9c02309369f9511c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-20.jpg",
+    "bytes": 316228,
+    "sha256": "1e634d3420c744b64085e033a4178ffaaae27c4d9cd5a17675f3f0fbd38ce507",
+    "git_blob_sha": "c3f448eed5bc6d41e69ab14165ef8b1ce80e9bca",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-21.jpg",
+    "bytes": 490834,
+    "sha256": "c2008a5b3e049d50d03e016792847fb2f275ab21a564c5b9a4c204af3e77ac93",
+    "git_blob_sha": "e887ddca72b0a1b193ed0eb2bec5d2a9dad6869a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-22.jpg",
+    "bytes": 686712,
+    "sha256": "b9b27b96d5f2a8a70969c3d961da5e0e0979ea870c77d1fea44061feeffddc2f",
+    "git_blob_sha": "0f21e7c8bd05101341d35213d8298ab301c5f3da",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-23.jpg",
+    "bytes": 708851,
+    "sha256": "bc5bde46a81cd8f09241b78e444ff012cb4fc2c2ae1e1f4175690a698d687878",
+    "git_blob_sha": "bb8a245bf1ff68627de4b3ddff5e00994e221b03",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-24.jpg",
+    "bytes": 511043,
+    "sha256": "45e7c685b6cafd5bc2a405404d9d359429e57688a298cac89a3ac737d10940c5",
+    "git_blob_sha": "08b46a495ff6cff29bd45682c6a0cc701b01c3d5",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/page-proofs/sheet-25.jpg",
+    "bytes": 341070,
+    "sha256": "c49ea5c42fc42ddbea925a706f7009e96ca467ea818fdb409bafff3d5060af04",
+    "git_blob_sha": "58acfb635ebc193f65bcad5856e9e46f84b06617",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/quality-validation.log",
+    "bytes": 2169,
+    "sha256": "96b37870944f201f941a557fa69458a4999668f8eced728bb1b28d8a95739696",
+    "git_blob_sha": "48346ae640b012e279dd601ce6d873211066b8de",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-final-quality-20261113/render.log",
+    "bytes": 136,
+    "sha256": "2c080c234ac67c659e4700cca22bd9e731967f0761e3950c4b8e945d3d53f60d",
+    "git_blob_sha": "c3bffa2cb21bf530d6a9d6801a6cdba5381fe4c4",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/baseline-files.json",
+    "bytes": 157828,
+    "sha256": "ccb93eed51fb810837ff740068845c2dc2c845783482d30441ebd958189516dc",
+    "git_blob_sha": "6bdfae09543d2cc7d2774f8481998c517003c63d",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/before-code-ending-gap.jpg",
+    "bytes": 490500,
+    "sha256": "6e0faee67f039c385f3de80db5e7f4a64f6fa65657f4f776b09b7339109cf88e",
+    "git_blob_sha": "ea3a39b7a426a1e928bef789bf91aace1bf2559d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/before-cover-clipping.jpg",
+    "bytes": 372221,
+    "sha256": "82ab1a2fe3a1900c5e3a004f824c5b61f93a33e901642d91d077a1d49b9e7ec6",
+    "git_blob_sha": "c49bf5c6bce501b4b7091aeaddc5cfbb05211d5b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/before-interface-tail.jpg",
+    "bytes": 507934,
+    "sha256": "0ffc0ec7b936c4b54a072a5721d7d915226422d9575289cf9d2d516ac5831d78",
+    "git_blob_sha": "a0f22e07d925ecb240e2f6682b72030dcf16947f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/before-rag-figure-gap.jpg",
+    "bytes": 430547,
+    "sha256": "468b16c04537a527a6a0f09a87aadf9401f813a2a71506f170a8076399c03700",
+    "git_blob_sha": "67df5a7e6351e13e0027b46a09a1681da119c6f9",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/build-final.log",
+    "bytes": 90,
+    "sha256": "5f7ecfd11a6384bbee1d2cdf3f9db81310eaf854532f8d4eb6c00f4343536f85",
+    "git_blob_sha": "47849c0852ae7a3215939d314e2efbc3865620f7",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/build-first.log",
+    "bytes": 90,
+    "sha256": "5f7ecfd11a6384bbee1d2cdf3f9db81310eaf854532f8d4eb6c00f4343536f85",
+    "git_blob_sha": "47849c0852ae7a3215939d314e2efbc3865620f7",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/diff-check.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/document-validation.log",
+    "bytes": 1313,
+    "sha256": "5563d59a90d598d5d4fb2e26fa1bd8c48952b7a733770579dbd8047815d3578c",
+    "git_blob_sha": "a14791276ccd6a901ca008ed9227b637998bc042",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/export-final-before-render-guard.log",
+    "bytes": 1661,
+    "sha256": "b76421d941d4c1ed0c062c10a2c8e80f143e1abcb5bac58102e5968ff7cb9315",
+    "git_blob_sha": "cd1260b4d159b8e8bef32bd36a94fe0407ffa29e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/export-final.log",
+    "bytes": 3337,
+    "sha256": "f4709ae673fc48b64c52744fd88702795dc59b542a0fdf71fd6b2bae6104b645",
+    "git_blob_sha": "62173253ce4f3f2ecc69245ace9fe78918ef4c40",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/export-first.log",
+    "bytes": 1661,
+    "sha256": "b76421d941d4c1ed0c062c10a2c8e80f143e1abcb5bac58102e5968ff7cb9315",
+    "git_blob_sha": "cd1260b4d159b8e8bef32bd36a94fe0407ffa29e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/font-audit-initial-scope-failure.log",
+    "bytes": 632,
+    "sha256": "f2d77321c89b6e55065edbeb454a4a62104a10dd5185ee2e8bd2e956c236f8f2",
+    "git_blob_sha": "a3397088ae3de121d64275112026ee8c4841968e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/font-extraction.log",
+    "bytes": 3388,
+    "sha256": "6900b57984df4d0ab66e8932f193f60e3bd9a98f193b1a093eaaefc966915b90",
+    "git_blob_sha": "588813cf321735e315a9dbc3bf147515d2f6cac8",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/font-layout-validation.log",
+    "bytes": 1143,
+    "sha256": "f4f2980f94d8441b842342325045702f49c2d0cadc8e4e0c036c44c19a5ebb10",
+    "git_blob_sha": "8dfe1cc5fc725d6965b565e156261a54fe40c849",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/font-metadata-dependency.log",
+    "bytes": 567,
+    "sha256": "46b04b40a661c29c044cffc91856e4ae77d0282bbf112b4b21cdcb73990e0065",
+    "git_blob_sha": "411a15b119098bb145292fa0858d3b3d883d16b7",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/font-preview-preflight.log",
+    "bytes": 1275,
+    "sha256": "07f6a2d33375d8cfcadf1d58c47472d13d7631fc09446ffa97fa590a6be3a927",
+    "git_blob_sha": "f2d674d70c9f09b7a95a8b41265a3705f686a528",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/font-probe-initial-failure.log",
+    "bytes": 1233,
+    "sha256": "e73de110ea0b7246b11f898d8ca5924cb33183e3d89321a91a26605e6671d46e",
+    "git_blob_sha": "55ed0699c32204a176c751d9dfadacac57207011",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/formal-export-blocked.log",
+    "bytes": 1383,
+    "sha256": "e30eed5d327712b3d0e62a5585d0df3e6a8c497d16382e691f43e33d05b22756",
+    "git_blob_sha": "5e94fc8b368b1f86db39437afe66d543a2d3db78",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/formal-export-initial-blocked.log",
+    "bytes": 1383,
+    "sha256": "3da74b7cab92193baae75a1b166d847f9e124df5a6d5156f7e4ca7d2e1e4a815",
+    "git_blob_sha": "ce862a00caa06491b8983488f9abf10399ae0942",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/item-index-initial-scope-failure.log",
+    "bytes": 526,
+    "sha256": "d7abb188fbb70e65ee48c0d95a1758578a6294fb7fd85749190a6a8ca887ffa1",
+    "git_blob_sha": "416833015a5beb101de9e74adb788044cece2b07",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/original-font-probe.log",
+    "bytes": 1383,
+    "sha256": "3da74b7cab92193baae75a1b166d847f9e124df5a6d5156f7e4ca7d2e1e4a815",
+    "git_blob_sha": "ce862a00caa06491b8983488f9abf10399ae0942",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-map-final.log",
+    "bytes": 60,
+    "sha256": "e966ffbbad90debb7545b4fa0f58b23ba6e37ce175b0e369abeb14faf4099b38",
+    "git_blob_sha": "b798e4d2b90601f9754325b11fb54f02d5bec1a8",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-map-first.log",
+    "bytes": 60,
+    "sha256": "e966ffbbad90debb7545b4fa0f58b23ba6e37ce175b0e369abeb14faf4099b38",
+    "git_blob_sha": "b798e4d2b90601f9754325b11fb54f02d5bec1a8",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-01.jpg",
+    "bytes": 393784,
+    "sha256": "a7322fe56ec92e02d64ba4d41b95ff9c0ff0100f9ad83fa8ed0b663d6be58edd",
+    "git_blob_sha": "2953ee3d317d2189725acdaa97cffa83b436dc43",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-02.jpg",
+    "bytes": 411583,
+    "sha256": "0eabe6c7ff8fd5512432ad14fd093da555ecb8f68705bbb9edd977a14c088550",
+    "git_blob_sha": "7f533477c3449c094b09a4230c6ddde97d571cc9",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-03.jpg",
+    "bytes": 549808,
+    "sha256": "6dc6e8818ac0a9c1d7e23510d06e347cbb464877d150653034200e308eca9c04",
+    "git_blob_sha": "f3a2d65e9c9f8c16245752db112e3ea986712263",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-04.jpg",
+    "bytes": 773641,
+    "sha256": "99dfddbdae1ff4115f5dcc404049942b351930dba3c78e810cb658390367a4b0",
+    "git_blob_sha": "efe2b7703d96b73f2c87e80cb9603bda105c05df",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-05.jpg",
+    "bytes": 420193,
+    "sha256": "c28848903b2eca92cdbfa0ae662c0045dc19a22114913175299839c68d6a4305",
+    "git_blob_sha": "ae5d8a09872ef47e2fa975fc5a5c9ec9f05ff367",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-06.jpg",
+    "bytes": 375425,
+    "sha256": "b92a546cb33c9dbfc2b7961bd5d1d16c9e45ec40b97936417e0b2603ad9dc2fe",
+    "git_blob_sha": "b29425f57f16d738f54dfab83644f906c90ebd76",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-07.jpg",
+    "bytes": 447553,
+    "sha256": "bb228e00d583ac1293bf0a4f3d413a00dd35bd1e3feba9a65ae2e351323e4f6c",
+    "git_blob_sha": "2ace7ef41636bb25e3a9595e82c7f7398fc08f81",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-08.jpg",
+    "bytes": 457609,
+    "sha256": "092c90e116460807ddce7b74cc70ca8d68a912a66241fc0a88c05135bed66c4b",
+    "git_blob_sha": "e56d1460a4aa91b047d446173d7c594228808427",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-09.jpg",
+    "bytes": 695170,
+    "sha256": "5fc5f7cb0184c9cbd647ee6301698cd2e2a71cde88a23b97e9529def912a225a",
+    "git_blob_sha": "e36818e3275de59472457f3a7d87204fb4a364b2",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-10.jpg",
+    "bytes": 477591,
+    "sha256": "0752598b257035f46ae0ef2b9e5df2705e4f7c4e9bd4dad5964eb7723d99e34f",
+    "git_blob_sha": "47ea1cad5b533cee6dcd24039706aa1463ed904a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-11.jpg",
+    "bytes": 542653,
+    "sha256": "933b5988816246858d1cdb964e2cfe0a3fda27bde8c6ef32d36e627b7b63c779",
+    "git_blob_sha": "bb71416b115d10132f4cd72b4b304be719bad92d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-12.jpg",
+    "bytes": 351486,
+    "sha256": "b2edf307f19cdedf461648f65f264d0112ccb46c12a48720cd2a62fe3b234815",
+    "git_blob_sha": "f9931503ef58ee40167819d8b2122b6c9dc9a169",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-13.jpg",
+    "bytes": 485447,
+    "sha256": "30774679e98fc11d604299ec4f3df168701211521f94d9a65f99d03bdc6b9802",
+    "git_blob_sha": "7c943ca2b48c7c6d9aa1129a15c580f531dadb6c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-14.jpg",
+    "bytes": 604301,
+    "sha256": "714eb224f51f6d0cebace642caf72c7c2d20490780c782d0efc31ed72b1c4c87",
+    "git_blob_sha": "276a7ed15da5240fbfa94794c066cfb47484e729",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-15.jpg",
+    "bytes": 582309,
+    "sha256": "82bc91336a4d82f344ef65189d2b39e7bbb7bbaece5dc355dfb84d3d492be2ab",
+    "git_blob_sha": "a6ff027f6df3e4d067efabbe8c3f195c54758531",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-16.jpg",
+    "bytes": 661842,
+    "sha256": "3b3bd1d1658673451c40212f4020d33b9f98cbd0b735503965c7ce214ae3f5c4",
+    "git_blob_sha": "04de564e7ec8cef11a818014173a8749fa802c79",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-17.jpg",
+    "bytes": 623576,
+    "sha256": "6edf85f6fdb790c04e4173f04282c22853b15e2d0a53ac92427cca7a32a8aa6b",
+    "git_blob_sha": "94e017d7cfcebd877ff141162cc6e5a89dc174bc",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-18.jpg",
+    "bytes": 604020,
+    "sha256": "6ec826c73e4dca5d2b2eb958e7da9cebf5c3e3f5cc0283e4cf2e06d065d15930",
+    "git_blob_sha": "bcf96707e377e528daacbbcd07582645e1da9e9d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-19.jpg",
+    "bytes": 592023,
+    "sha256": "897c30732681a59668ebe1d70b48d294ace4ffa91ba3a6eb3052893bed4fd046",
+    "git_blob_sha": "2fe65d42aed2fa814097ab865034e33508653160",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-20.jpg",
+    "bytes": 353532,
+    "sha256": "78dd40ee87faef5abdf5976f4280922b9a1989997b8568fc0642e1d4ea7998b8",
+    "git_blob_sha": "a6e80ef7d477533d3f9f9d756efada7998f2f8ce",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-21.jpg",
+    "bytes": 458391,
+    "sha256": "16c597eaf67a1a09a1c65766adb3b15302db87d4eacd59add3687afc8ae26f51",
+    "git_blob_sha": "119a9429f90f706d6dd440f7fd071444408fc068",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-22.jpg",
+    "bytes": 560323,
+    "sha256": "122ce0858eaecd60e8f3f1dc0006a809e08bc2d87123fd6f75779214aa6a1e07",
+    "git_blob_sha": "a8fcda751cfe0abdcf9646b6fd3b227e8c12dcfe",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-23.jpg",
+    "bytes": 695038,
+    "sha256": "03c924e725b8cd13fbf41db415e01e6e297d88f44e81641e5edcb8db0a86b647",
+    "git_blob_sha": "b1a7ad78cd02c68330fa23654560c78ea9b414aa",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-24.jpg",
+    "bytes": 596416,
+    "sha256": "50f7f8cc58427476aa7c0a4690256654663f68ee91b1b88aa108dc70583320e4",
+    "git_blob_sha": "b6b409e229dd4976eaacfff41d35013788ef2cf2",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-25.jpg",
+    "bytes": 476679,
+    "sha256": "4960d464f1af5f4584ad049278d0912b62870112f5bb1af5e00808827f3c1ac9",
+    "git_blob_sha": "437a83bf9c78f4b4b62870784a5f13eb55a8d4fd",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/page-proofs/sheet-26.jpg",
+    "bytes": 181257,
+    "sha256": "f3ffa371b7be0c9fda87f49e3614354f811ad3d8621e5abb99c0cbfbdbc7bdc5",
+    "git_blob_sha": "aea42c2934962a06679e557c1be4e795f77e34ad",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/python-syntax.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/render-environment-fonts.log",
+    "bytes": 315,
+    "sha256": "2f65efeb647ff677e4b8b1b28b271978647a7d43216965599738bf31e58beb28",
+    "git_blob_sha": "30f4597dc2b60ccd9bde050e4fe1f05e9b664e76",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/render.log",
+    "bytes": 135,
+    "sha256": "1acf83ac0f79624c5ecb798e2ac064c4a29b44e6092010427bd6a2020c72bacd",
+    "git_blob_sha": "c297f00506e309e4c3f675203c7c1561b5f3397d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-font-layout-20261113/shell-syntax.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-1-pdf.png",
+    "bytes": 99267,
+    "sha256": "25255be0b647900d998799571e3ef02be762875d9b5d6185dc44c5d88cbb9a93",
+    "git_blob_sha": "c2e646cf3630a8b429a8b5eed2eb504d7eec8dbd",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-1-svg.png",
+    "bytes": 84978,
+    "sha256": "caf16a1afa978c620c90aca4f58173a73cfa9699fbfc23ca99330bb3ad51233b",
+    "git_blob_sha": "1dad406ad34473ca0242361bf269deb26dcb3661",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-2-business-pdf.png",
+    "bytes": 91499,
+    "sha256": "eecc99922cccbc7f9ba6b57f124bed164d9ec4b302dec6808503aba8f9ffe5c2",
+    "git_blob_sha": "e0e70ce7b530d3bf8ce9ce22d42c92e8424d1a68",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-3-business-pdf.png",
+    "bytes": 101162,
+    "sha256": "a758d33c2a99c914d15c7de7e4e767e3bb24f4442047dd696c3741dc3424e3f5",
+    "git_blob_sha": "012a1591f86cc228b9d4025a93f2889a0466e498",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-4-business-pdf.png",
+    "bytes": 68950,
+    "sha256": "f4cbdfac36999dc8c60a4df7a9824cf7a49fe04402c8ff98ceb29517646766ba",
+    "git_blob_sha": "526111392e26e9102f4692260c2ea798a2176d6d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-5-pdf.png",
+    "bytes": 45888,
+    "sha256": "472328ffbda33e07f444eac60089ec0ccda56403ef4ac300c7b440fada371fbf",
+    "git_blob_sha": "741acc8e0b9f43fff41a67c2c7eca31d9c79d582",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-5-svg.png",
+    "bytes": 43206,
+    "sha256": "1269dd162ab007dede39b4e0998ca1771738cf6b0ad733164365fbb52f806d54",
+    "git_blob_sha": "ae96d522569e9238e56f0953cd95885162c1b45c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-6-pdf.png",
+    "bytes": 80987,
+    "sha256": "c94a8556392c7b35252345d68fb051f657794225b3f8d457735afc5f433b9cec",
+    "git_blob_sha": "620e1f4968e17b9a6a087de79a378fda87dae96c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-6-svg.png",
+    "bytes": 81763,
+    "sha256": "661311f013c07c8ac5d6dcd0268f3372302279cc2a1da396ab1193280b4df1a4",
+    "git_blob_sha": "29dff99f1bbd6eb139057035e8d3a3e8d0a8f76f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-7-pdf.png",
+    "bytes": 88041,
+    "sha256": "fdcd5121411c693bd330bab6118e8d00569755814a453748355736213756fd99",
+    "git_blob_sha": "e4004a85db086cb5c9a7093182184c5dad744ac8",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-7-svg.png",
+    "bytes": 87958,
+    "sha256": "993a9e5be4f700a5f8a4261801b2689bcc8582007486028e5020f4d13687d642",
+    "git_blob_sha": "da6b080daf4a4cd69745df3804a14eecbc00965f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-8-pdf.png",
+    "bytes": 65520,
+    "sha256": "6fa6b048d1e0f8080dbcdf401c12ca48e0cc63a793e44d162e666ebb87c2d542",
+    "git_blob_sha": "6d209df451c5a1a59112857ba6286a6c2636decb",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-8-svg.png",
+    "bytes": 64577,
+    "sha256": "b318636f4a7d28cc21bbc640b05a574f97a7cf1dcfd128d7e379c8f53e8afce8",
+    "git_blob_sha": "7587248ae8181e0c5263f336d78fb0e41fca942c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-9-pdf.png",
+    "bytes": 56909,
+    "sha256": "52db98d5c91dd23c890d6073da6ec3ab7a3ce750045e14bce3b495b0ec8d9bf5",
+    "git_blob_sha": "50bdf1a757c015a7a4a8a4f876d689ac0c97c216",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-structure-20261112/requirements-rerun/3-9-svg.png",
+    "bytes": 55942,
+    "sha256": "882a8a1834025cadc45d900c4559a7c2e03fe622858813234f39817c234e824b",
+    "git_blob_sha": "7917d20d89341919462500b702b875bd215babb5",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-baseline-runtime-retry.log",
+    "bytes": 3411,
+    "sha256": "536f475e8f4d7b13520eec751a309b24c50874d8fd11c7c7ed7c2a0cb0464e3b",
+    "git_blob_sha": "064f98df1883448a6a5a1bb91ac352ee09fe4f08",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-baseline-runtime.log",
+    "bytes": 5226,
+    "sha256": "d5ec9a9b1adb12ee07d59a7f7caa51543164fd489130c57836d4fbddee1a3ecd",
+    "git_blob_sha": "8be07b14d7f60203f9b4ea6340dfb0bf9a4606ec",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-baseline-tests.log",
+    "bytes": 33428,
+    "sha256": "3ab23c657be710c512a54f781f48a6894d0bb19bee635580357526ac94c6d2e5",
+    "git_blob_sha": "63828058eb8b11e35ab72c9a64e9688e4ab5ccfe",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-build.log",
+    "bytes": 2954,
+    "sha256": "9149bcb2ccbd4986e73f621e17d3a8b03717bf625ece235a6ec4ae3b1109a32f",
+    "git_blob_sha": "18745086bbfbd71f674a1ccb0855c5f31fa74cd3",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-final-runtime-ready.log",
+    "bytes": 7382,
+    "sha256": "415d1073e90e7323de6ccb0c01a739f1f0e2de958a7947bea8e1bbe7b35b3b0d",
+    "git_blob_sha": "4101f1c7b2df069aad94182780c8df8c5ac5ddea",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-final-runtime.log",
+    "bytes": 2763,
+    "sha256": "bfe3018312e2a34cc7098f9f9fb8dc91f3c0711dfd43b86bbbe7859921c3d31e",
+    "git_blob_sha": "66a450fcb7040e22f045f85409d14bf4d33a4a2d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-first-build-failure.log",
+    "bytes": 360612,
+    "sha256": "c185371fa04cc22457eb06f32dca744c4162f44ee597f8cf82b4dc9b5ef52afe",
+    "git_blob_sha": "051f246f124e0c8a5bbfe953ea91a87ba5d6649e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-first-disk-failure.log",
+    "bytes": 8930,
+    "sha256": "92f3a7d3aa3d581c76e42f6d327957deac6791c33fc10c18ab1f5287b801616f",
+    "git_blob_sha": "b48cce26c8ab858b4b966f6839c3cbfb96a10f20",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-first-integrity-regression-failure.log",
+    "bytes": 47718,
+    "sha256": "5f6f11d7a3a1b4a802ca32209e0f520066af33492ae58a1230a9f79306c7599c",
+    "git_blob_sha": "774b1f1f8a9089235a643ccb1f8e3e9ef402feba",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/backend-supplement-runtime.log",
+    "bytes": 3920,
+    "sha256": "2e7da4e6cb71b4d1d14beb4f1b315bf6e4d52804955e5bb599a90c8e8291fb2d",
+    "git_blob_sha": "32bd1bf6dfccc61937c8b6182c1bc9bfda80ee9e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/baseline-files.json",
+    "bytes": 131400,
+    "sha256": "85d91d181f03d8c6416aa545c22cf45fd97eb19a79ea78457ab413ba31a44a82",
+    "git_blob_sha": "5b9b3f3a900476b6fb46da80c3025b0c4c277ef1",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/browser-supplement-first-no-fixture.log",
+    "bytes": 690,
+    "sha256": "ad5e2b48b407de389f5218533a99ac055183c0122a0549b8da41123cfd8dd24a",
+    "git_blob_sha": "091b89024d5c9b890ca4a506853e7623de5b9060",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/browser-supplement-first-port-failure.log",
+    "bytes": 4080,
+    "sha256": "ed30adb1917a415fefc7480510127f7d9c6bee1cd37221b649131d279c796f61",
+    "git_blob_sha": "46edb68620c3235d8761504076d28bd91f3ac696",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/browser-ui-cancelled-to-protect-originals.log",
+    "bytes": 4667,
+    "sha256": "917c5753094ff13bbd327df04f745562cd552e1525e3b8f6861a3bad8f65c91a",
+    "git_blob_sha": "f31a38322cb4713efa8d4bb32570a3b0cfd94625",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/browser-ui-mock.log",
+    "bytes": 7509,
+    "sha256": "0fc2f36a4f813792367f44731d75f2e062df15d126e26a73d77ee30b8417d01b",
+    "git_blob_sha": "a183530fb8eb11b330d8eacf736eb9b90595f451",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/code-thesis-audit.log",
+    "bytes": 130,
+    "sha256": "948bc71582e0ec27571a430350c7a3da56cce50f458fc2b5fd28f03aa5092c76",
+    "git_blob_sha": "97fe5a80ed943e1b8173fd89412baf7d5fb39db5",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/defect-probes-after.log",
+    "bytes": 63,
+    "sha256": "51892b5899537276a2e18366aedfbe36bf14603f8687e8eae06275f8c21078f3",
+    "git_blob_sha": "3cddb195f30d965dbf25f5159d88c3016f47bf63",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/document-build.log",
+    "bytes": 388,
+    "sha256": "540c1ca46f9416785f14b5cd5f9428bdcbbbeb189eec9b49e1a014eac40ea344",
+    "git_blob_sha": "6bf9c89f52d77a2df74303e478fdf29416d22f86",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/document-export-final.log",
+    "bytes": 367,
+    "sha256": "5822f06df73313cc4cd95515cc124d8ea84cface6a3bcbc4f7ec8f96b55d15d3",
+    "git_blob_sha": "279dcfd759acca770039e13105892d937e63fc04",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/document-export-first.log",
+    "bytes": 258,
+    "sha256": "e0ea5771fb7484479c443d9ad453e0eeab8a8c98865a7587505ad5ea293ffef0",
+    "git_blob_sha": "761af9498e48bd8750528740daa21958a961403b",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/document-export-pagination-fix.log",
+    "bytes": 367,
+    "sha256": "5822f06df73313cc4cd95515cc124d8ea84cface6a3bcbc4f7ec8f96b55d15d3",
+    "git_blob_sha": "279dcfd759acca770039e13105892d937e63fc04",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/document-render.log",
+    "bytes": 141,
+    "sha256": "d43d4ed16ec0a1001192b60169ef142959c5871aa299fec1a8a4d9c3d232970e",
+    "git_blob_sha": "0ddd269f5f964f05fc4225a8f5ff26a830a40a54",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/document-validate.log",
+    "bytes": 1197,
+    "sha256": "b8b895fd37523a8f865874fc3bba449ae91cccae7b8b65c35797881b1b0d085a",
+    "git_blob_sha": "820cc6d127fef000e9550ea93b7bde36bbbf222a",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/figure-proofs/01.png",
+    "bytes": 344329,
+    "sha256": "7feab7989e6b9f47324b4a64ea66f0ea683c247125fa79421638a809bcd5dcfc",
+    "git_blob_sha": "63a77ed4fefc57245eafd9695c3cf58f21192a02",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/figure-proofs/02.png",
+    "bytes": 412981,
+    "sha256": "ab98df1c0d3ad786f6b5b8830a260de4a2e5f5a7abe5fcba6a2ede0841428943",
+    "git_blob_sha": "be273e084b8f77db1797054506e6b3e4fc46ce6c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/figure-proofs/03.png",
+    "bytes": 415147,
+    "sha256": "857e2928c26953b40934847f3cb53812b5f0ba3c40d540d913bbce63e954d246",
+    "git_blob_sha": "ebfff0f787d36bcb258aea3b1209b17e7647d6d0",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/figure-proofs/04.png",
+    "bytes": 334444,
+    "sha256": "50e6b8f245035359b70e51c40987d1ae39e77ebfa9985931390e512ab38c54f3",
+    "git_blob_sha": "1973f96890e020dcd3d6ec8370166e487d99c145",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/figure-proofs/05.png",
+    "bytes": 262154,
+    "sha256": "9e3e7944d770d1ddffe87bf9dc58d389a262cec208ee32aaf9be80fca328e460",
+    "git_blob_sha": "5d4df7761252850152807d4c97e37f7227007018",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/figure-proofs/06.png",
+    "bytes": 340783,
+    "sha256": "52ae3c0c18a3b9d191a76b9049e375bd822424035bb2c54c906c77422f257551",
+    "git_blob_sha": "028bc33d09898d1703550062922229c4e6c21040",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/figure-proofs/07.png",
+    "bytes": 388285,
+    "sha256": "02fbb31b83ac097d6891806b81fb0c6ac03a2413397d563e655bdb2aeca14bf6",
+    "git_blob_sha": "65cc4d052bfc23f14f5156f8af5c563af1c1c39a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/frontend-build.log",
+    "bytes": 6340,
+    "sha256": "bfac745ebb676b3f3c85636c5750257b303aafe6669359ef9d835e0e3f643d01",
+    "git_blob_sha": "0a4613480228c54711f4bb0b1e795adde1a639ca",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/frontend-install.log",
+    "bytes": 512,
+    "sha256": "2c0a3996ffdad30116f14d9dc7e29201d22be1812cff2cfaf8f971834fb06347",
+    "git_blob_sha": "3f2b43967ae2e69afc4b01464834ca3b7c227447",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/frontend-runtime.log",
+    "bytes": 139,
+    "sha256": "2bd6a776cbdcc835602411a68b22b6dd7a690e6efb10dbe88e4033d68e10d400",
+    "git_blob_sha": "3c1fe123140dec44f2bd4eb8b6962c2fd03e7015",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/frontend-supplement-runtime.log",
+    "bytes": 139,
+    "sha256": "60247ac1f91f40ec34fc162c8dbcf5d572ab7d8d442498ec4ec91f55acad6936",
+    "git_blob_sha": "538cab71ccac3f8241c39f64e2785190d788d986",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/frontend-typecheck.log",
+    "bytes": 52,
+    "sha256": "46268742699a777d67db8524211993185cd09a48fade0f78cec1f42ad0f7a4e1",
+    "git_blob_sha": "5a70671e2b88cfa598dbf1ff3ba767e1ac8be962",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/inventory-after.log",
+    "bytes": 159,
+    "sha256": "9428dacde1c65566b72f0b214eeb8d468e98a1268448d632c6a28a77ab210abb",
+    "git_blob_sha": "9c4aac8d194882038ad18b6d91401d412a1edc15",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/inventory-before.log",
+    "bytes": 159,
+    "sha256": "9428dacde1c65566b72f0b214eeb8d468e98a1268448d632c6a28a77ab210abb",
+    "git_blob_sha": "9c4aac8d194882038ad18b6d91401d412a1edc15",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/mysql-install.log",
+    "bytes": 1701,
+    "sha256": "8f86a082b06905501ff5f1cc5ce7c5dd9f587d376b3dcc1e50d53ded640a0897",
+    "git_blob_sha": "c933e7e4eb73220b124dede43870fab8e80b589e",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/mysql-runtime.log",
+    "bytes": 5014,
+    "sha256": "9f5012fe5fc7026877bd58fb07900b95a09942562f46d2d1a231560ae1a12301",
+    "git_blob_sha": "476dc3ea33595ea30c4a9da3cc6aa1c1554a4569",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-map-final.log",
+    "bytes": 60,
+    "sha256": "e966ffbbad90debb7545b4fa0f58b23ba6e37ce175b0e369abeb14faf4099b38",
+    "git_blob_sha": "b798e4d2b90601f9754325b11fb54f02d5bec1a8",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-map-first.log",
+    "bytes": 60,
+    "sha256": "e966ffbbad90debb7545b4fa0f58b23ba6e37ce175b0e369abeb14faf4099b38",
+    "git_blob_sha": "b798e4d2b90601f9754325b11fb54f02d5bec1a8",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-01.jpg",
+    "bytes": 391714,
+    "sha256": "6f6025a67be31fc073839f1499f5f4b3d7a8a4e91361033886458602d44bb1ac",
+    "git_blob_sha": "0efc0d73cb20f97f62d62daf189ce2874686c281",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-02.jpg",
+    "bytes": 419947,
+    "sha256": "21505dcc6b5b5a8f10f36f45e77d9eb4c93f68ff4ed7ef9a47041e1a3549f834",
+    "git_blob_sha": "5db4f5e9193add14c46ee91f73a5aab74f3601e1",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-03.jpg",
+    "bytes": 556858,
+    "sha256": "d7e777bcdbe885ed06fc04d947c1d6722d1fda2e2daf9cabac25097202c2b51a",
+    "git_blob_sha": "87461627b694a6916cf543d945d232be58b644f0",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-04.jpg",
+    "bytes": 785951,
+    "sha256": "592ab9fe871cfed0b7b53fe828cc2c09f5944f4bb6bb562de7ed57e122496055",
+    "git_blob_sha": "d965b26057da3aa2311a1de32508fc9769a4d0a0",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-05.jpg",
+    "bytes": 445573,
+    "sha256": "97b946e78b3aaf60dcfb0bf6a9573f63a5dfcf16b6cd776833e1304f8bfdba9b",
+    "git_blob_sha": "ea11789914b873251cb5aecf3927d83784c32f95",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-06.jpg",
+    "bytes": 393043,
+    "sha256": "c1ae2ba45a0f20bcacb1d89cd66ddbf0e9506164a615b4161256767e5ae6dddb",
+    "git_blob_sha": "4c24ef6ffb77d58b60cff9ca7b9b44a482219e0b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-07.jpg",
+    "bytes": 461472,
+    "sha256": "c3a4076d60f0cf9a7b2bf48f0e27b6d5d8d6f0da49721b5414c5a155a395d862",
+    "git_blob_sha": "d1c1b124a5bf16d2a9c4e4a5ac6fab13ed615422",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-08.jpg",
+    "bytes": 451933,
+    "sha256": "354ba9659c1d4d807ef3c52107f92a192f9234bb59fa4e705b63e5c0c32465b6",
+    "git_blob_sha": "5b7acd1f1aedcf6536c1417608ba5c6bb4c22862",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-09.jpg",
+    "bytes": 696595,
+    "sha256": "be16a293c58770f8a6452c715bdbbf76d7fd53b200d41a1bbcaea4fe776418a8",
+    "git_blob_sha": "1dba5834db8a83ca93d8bc3775553c657f6b99b4",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-10.jpg",
+    "bytes": 494956,
+    "sha256": "95d97b572fe2523c549be96b197938aee9506a396ccf205b883685d5671c9483",
+    "git_blob_sha": "05553722cab7caa9c2bc3d1ab31a95c3551adf61",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-11.jpg",
+    "bytes": 539852,
+    "sha256": "d93f38b981ac315707fd19b973823df663b8c7256cea7930e06501c6957a02b5",
+    "git_blob_sha": "639ba2ef2f7fc9934e9ff6095ba2c7af154a7347",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-12.jpg",
+    "bytes": 351641,
+    "sha256": "e14f3d25495e7f21902f2d703775084582362769c8a4ec1cb4e0cf19a73bd6be",
+    "git_blob_sha": "e43525f334282a66c71d018b519e5051f25e314c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-13.jpg",
+    "bytes": 486747,
+    "sha256": "d6e2b8936ba207d979826166820398c1bf2a3caf76ef05a25f899d40d84285ed",
+    "git_blob_sha": "9860b0d0f5702839099036735437280204495a2f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-14.jpg",
+    "bytes": 608908,
+    "sha256": "18055f07798a972d334c7ed42327e7a29912740a4ee20d3da35b715babc32e91",
+    "git_blob_sha": "0e3b034e8633812f87b436536346121814c0baf7",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-15.jpg",
+    "bytes": 597443,
+    "sha256": "32472540e1345d579c89c7738e09e8a091fe27dda4f8472de6107825cacf134a",
+    "git_blob_sha": "5b368a2c9da49834c5b8514b5b5a528573a73663",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-16.jpg",
+    "bytes": 680581,
+    "sha256": "1e9f9b95db4c4c29e68c5b4104957609f02c49cc69b58a9c8b33db5d85f2c88c",
+    "git_blob_sha": "003a79f574efb60b839f3e7babb8ff28aaef3b3a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-17.jpg",
+    "bytes": 628435,
+    "sha256": "eb20eb3f19081a869bae9cb85ce736112d71492bbe9e37558b90a52648b258f8",
+    "git_blob_sha": "103f9fd39ffafc9817eda0c5a3e69b0066f8cc9a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-18.jpg",
+    "bytes": 666072,
+    "sha256": "3fd6386bc4e369db2235181ebf7daee68b32ab4a1db71c567c47051e5777e228",
+    "git_blob_sha": "32ea61c646700ef869e55ee966f68ecc2240220c",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-19.jpg",
+    "bytes": 514533,
+    "sha256": "efad5bc56f57265656bbab7332425c45a792a1ddcfd0e95855d6cfda7d6dba23",
+    "git_blob_sha": "ae0d2ee5f6eda144bbe7fe23c14c7778e466b5bd",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-20.jpg",
+    "bytes": 316056,
+    "sha256": "1e045bffbf4d2bf0631feb07e20ae44e8cb4e02d593abf108cdcf0f75a2c85f6",
+    "git_blob_sha": "76eba40f65ab4aaa20a61367d3290af84b888b1d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-21.jpg",
+    "bytes": 497961,
+    "sha256": "fddb4e686abb77100799e6f3bf5e544eaa4b9cc62de4bfe7382a7bb21014149f",
+    "git_blob_sha": "d7cd96b9380cece7dd46e704b1329a957d7b2de9",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-22.jpg",
+    "bytes": 703376,
+    "sha256": "49c12ba3e3a776970b54d7b5f992cd41c3a3beb4d6bcfa60aa7e0f62168392d7",
+    "git_blob_sha": "15dcd438410ed2b5fcb3c1e1171480ef2b871790",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-23.jpg",
+    "bytes": 747129,
+    "sha256": "b14fb635eb1a8ae1c91b1a277536d56724ca0e4b8543f138245da2b21c376d2a",
+    "git_blob_sha": "e394064b0200408ed6101af3e0c79a4f4bc917a8",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-24.jpg",
+    "bytes": 511970,
+    "sha256": "87091be01d70cb863b75101c1c93d1be8551106d3b383c45d8679914ee6c9f0b",
+    "git_blob_sha": "5d6953f57de55620e17d9176ed7caeb5b6423eae",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/page-proofs/sheet-25.jpg",
+    "bytes": 331750,
+    "sha256": "c00001ff0beeabeef10150308dfe5570b44453c134c5a7ca863ed3ae8ad6e386",
+    "git_blob_sha": "2f30c331fd688652f1be4db558bb9ab64799d86b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/pagination-before-one-row-table.jpg",
+    "bytes": 584935,
+    "sha256": "4bccd39f25c9f2a5bbf2113493d285aa70935690ee59dcf384e8d2f8759ce222",
+    "git_blob_sha": "662938658a3cf5cccd02c3a4dd1745b5516a28bf",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/protected-files.json",
+    "bytes": 130418,
+    "sha256": "2c0d9f222f81bc57182cd324db1889b66e150abcabdee5bfb528a00982a46bad",
+    "git_blob_sha": "2fced1b2c579bff978ff4a09dbca9db6da06a4bc",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/python-install.log",
+    "bytes": 1749,
+    "sha256": "cf136f1c14ad04b6593a1f31171ea37e92beed54740f0357da530fc8a6f32796",
+    "git_blob_sha": "c0f7b1a5ab9e47d0bee1f12100553e2c3c3829fc",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/runtime-api-audit.log",
+    "bytes": 85,
+    "sha256": "3cb1cc8053027df5590d879be96432534f6e631cfa2ee5c158dad64153bbf341",
+    "git_blob_sha": "3819dcb03868ae3309184d70633cbb36f9f5984f",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/runtime-schema.log",
+    "bytes": 169,
+    "sha256": "3a836b8f8ff84dabfacccd8c5249e7d5c1392a7c4c73d37261faef86dc107e86",
+    "git_blob_sha": "296f5fdb212f459f67752af514067d8fd6919873",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/screenshots/learning-loop-mock.png",
+    "bytes": 177918,
+    "sha256": "9162400589c5ff89e1f2bd1e198b94ad0786fe1cf0dbb3c5730204a7613701b8",
+    "git_blob_sha": "599b535a31380be1638d2dd8f3d124a6d9e95fe6",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/screenshots/teacher-report-real-backend.png",
+    "bytes": 213750,
+    "sha256": "133f652ef310f93c6082eec1a92850b8bacbc4380757077589741cd3e5a457e2",
+    "git_blob_sha": "18934db6cc813db15e2ae57b270afcdf634b74de",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/typesetting-install-retry.log",
+    "bytes": 85977,
+    "sha256": "67d264eb417e661d7f839c486b241f68eb219265c8ec33c5a60769057670d9ab",
+    "git_blob_sha": "09dc1534c910b3f0663c4eb1554759c05690b095",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-system-consistency-20261113/typesetting-install.log",
+    "bytes": 85736,
+    "sha256": "d384a89e12db59b4a1a44a069b9b510ba3cf6c9032d5da88309a3293cb6ffb86",
+    "git_blob_sha": "f1d00e7a3c1bc46622a409741414849cf96ccd78",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/baseline-files.json",
+    "bytes": 171060,
+    "sha256": "bf5617156a2089f2a2979a2c36b54a01441c4ad80a98de2f3633e324a7cd5bba",
+    "git_blob_sha": "25e756c75e8c120f9b920969df75eda668a5ec5c",
+    "reason": "旧全仓库清单、重复基线或保护路径元数据"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/build-1.log",
+    "bytes": 111,
+    "sha256": "c75143d7e3e69ebd4eb4247e56e9927107ec238458ba7b2f681c739bc8bde769",
+    "git_blob_sha": "dcc5abcf7a555153533f086f992a22dd122e5d2d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/build-2.log",
+    "bytes": 111,
+    "sha256": "c75143d7e3e69ebd4eb4247e56e9927107ec238458ba7b2f681c739bc8bde769",
+    "git_blob_sha": "dcc5abcf7a555153533f086f992a22dd122e5d2d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/document-validation.log",
+    "bytes": 1295,
+    "sha256": "a9a53ef3b860b94c141256ea67189bee44580cf34ca5d58c5cee186c38356df2",
+    "git_blob_sha": "5d6ec6ab3d71b92287a08ac828468d270b80c9db",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/export-1.log",
+    "bytes": 237,
+    "sha256": "260d961fdb5909b87330d3ba9fe12444bbf9912b535efee9c1f6117a52013187",
+    "git_blob_sha": "8ca2ef119fbe4a8452b89040386e9a66638008c2",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/export-2.log",
+    "bytes": 237,
+    "sha256": "4b6f7dd39fd9521e9f447045b3c0de162158b60e7c7c8b8d3fbe309f7bd0d5eb",
+    "git_blob_sha": "7c0feee7d079db673c426ab1fa8f15d0eccc4ad1",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/font-layout-validation.log",
+    "bytes": 990,
+    "sha256": "c31b350fa1f3914254d99c2a0004c64b334db12852fba6c65663e7cf78309bb4",
+    "git_blob_sha": "e3e02e11c10469276a962ebadd85bf9a4f2472b0",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/libreoffice-install.log",
+    "bytes": 939,
+    "sha256": "1adf96b1212f42d70390992ed6df6a96d519046f6f19969c7eba60e705059257",
+    "git_blob_sha": "a3079261f23195ebfa0ac16f5b0b24c57beb5066",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-map-1.log",
+    "bytes": 61,
+    "sha256": "f691c12edd2733937b9086f27c1c958b4e21e80d24c67a40a622bd29a4270557",
+    "git_blob_sha": "8e847b3eec014f7a0976d26a58007e2c74ee2eac",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-map-2.log",
+    "bytes": 61,
+    "sha256": "f691c12edd2733937b9086f27c1c958b4e21e80d24c67a40a622bd29a4270557",
+    "git_blob_sha": "8e847b3eec014f7a0976d26a58007e2c74ee2eac",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-01.jpg",
+    "bytes": 393393,
+    "sha256": "f3044046025b900f9183b3e735417c745b9b9f8847a19c1a919f584d038638ed",
+    "git_blob_sha": "7171d145bb4c446ca0e40707a15577858c788944",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-02.jpg",
+    "bytes": 398109,
+    "sha256": "4c72c716cca0b1db9683b5b1b7ed14f9995ece38a9149d21fa69381014c691fb",
+    "git_blob_sha": "25893da0e762c5c38e6e3ce5b0615b082c99881a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-03.jpg",
+    "bytes": 528213,
+    "sha256": "b436ddb1d50979a0c44ead88ee6e996a50f06254dcea5fce50ee396afbe85a56",
+    "git_blob_sha": "c52426d89e224db08ad32e3c072a5087c941cb52",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-04.jpg",
+    "bytes": 733460,
+    "sha256": "fdbcaf0ae95eee1d11bb06e5c530b347c6ca46d2e5e79539241a36f6475470fe",
+    "git_blob_sha": "9fc9ab2aeca51940fdac7ae6a32c89439aa29183",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-05.jpg",
+    "bytes": 404496,
+    "sha256": "813af0c4b36ab63783718a61e2073c8ed3f2cf7c3dcfd0e94f7cbc48d648cff5",
+    "git_blob_sha": "cf0faf6247c5fa2bbadd19904db7df1e49e41791",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-06.jpg",
+    "bytes": 364335,
+    "sha256": "3f5763764d67333121890f011e9043e0f4dd59b74d03b00148a1ef73a892487b",
+    "git_blob_sha": "da6c29526985eae89d6e9340e24a42513511ce8d",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-07.jpg",
+    "bytes": 435073,
+    "sha256": "40016bb0b82b6cde82e6aece034b89d7ea0b2213c47a7aff6d7033b9b24982df",
+    "git_blob_sha": "fa58eed417956dd4c42994421fe7ae7787bde450",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-08.jpg",
+    "bytes": 441716,
+    "sha256": "6fe7a734770457e9bb121215043ba60b9355470a3d4f6982bca445db8f74392a",
+    "git_blob_sha": "d37a4b6fff60e41dfbdf376baaf9b9e8b5fc9592",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-09.jpg",
+    "bytes": 665061,
+    "sha256": "fbda401fa73389d6409e80394d18c6b56234eaddcb6609356789c605317db445",
+    "git_blob_sha": "b9c15af20d16f26f888eceead877c32c8ba40ced",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-10.jpg",
+    "bytes": 462396,
+    "sha256": "8ec5d0d2c95f8e8d474d872d3598dc2833e16bbd34e73aedfd0bb0f408e0c02e",
+    "git_blob_sha": "c33d51de3709518289cae6f6195c37234e495714",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-11.jpg",
+    "bytes": 521200,
+    "sha256": "e59e04fdc86881ef64db91daea19218862afb51d5e65fd9169c1b94e9e522338",
+    "git_blob_sha": "0e1e0e6e462425a0209caba653d507325a7c8a52",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-12.jpg",
+    "bytes": 343151,
+    "sha256": "12e469700a7b195424faab58f8197e40ebca9e6cb077e82ac675b77e74082331",
+    "git_blob_sha": "2f569d49e2904983d29cb613b982850559020b23",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-13.jpg",
+    "bytes": 477796,
+    "sha256": "6117a80935263e051ac44d2d5e732c3d2d7ed364820468d5da37b6b3d050de7c",
+    "git_blob_sha": "e33989f61bed2acb2bdff97faadd49a80c0625d1",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-14.jpg",
+    "bytes": 586929,
+    "sha256": "31ccd259e956c73bdffa6dcbf28c87560241541ee4639943117a7df27260e64a",
+    "git_blob_sha": "b51b96551f9515a0a955fcb115d02790322d1fad",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-15.jpg",
+    "bytes": 561257,
+    "sha256": "0ae14360f5d67b80d8e25c481da2556f4a6de92c38443383e099fc59683c04aa",
+    "git_blob_sha": "c2e58268276d4115367aea315dcd1ccc4e3ffde5",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-16.jpg",
+    "bytes": 634996,
+    "sha256": "2e68220c74da3af413a821e2567d43748c6271b9c5573a3a881fe6e23887f9e9",
+    "git_blob_sha": "50348a56c59bc71a7dd0d5217005527e4869748a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-17.jpg",
+    "bytes": 607565,
+    "sha256": "d43e39cdbae91ad3290ed6181740b2b2628c1d696d9998afaa359caa605de9be",
+    "git_blob_sha": "90e8ed0f83ee1caec9f5afb3b2e305902d47a750",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-18.jpg",
+    "bytes": 588225,
+    "sha256": "08d322892b031b37bada8b7e510d1910ee182bc9d7ffd1c4e67a5eadf1065f16",
+    "git_blob_sha": "8c7af7db499c72b85e62dbefe63e6713d8fbc42a",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-19.jpg",
+    "bytes": 574966,
+    "sha256": "82aea7a23af0dd98d9985345e3dd735d53fea1c8e02712d12780797809d9ca1d",
+    "git_blob_sha": "6ed085199b92dc60389c2362983ed7ad0ee289d2",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-20.jpg",
+    "bytes": 347998,
+    "sha256": "3ab86420cb69aeb410343ea87559567fd43cfc2b45497e0fe3c456a64b13725e",
+    "git_blob_sha": "ee4ac0909f3285a3c79e70030cd86621d6786519",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-21.jpg",
+    "bytes": 446914,
+    "sha256": "11d403d622d968bccf3ea0c8415f3bd585584419e372ad48fbebe9ae20e0b814",
+    "git_blob_sha": "7510103912ce4dc969d67f4e5e264e51475865cb",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-22.jpg",
+    "bytes": 542761,
+    "sha256": "892e3aef849e789d0590f1096f6161dc7c806a2e5ea32e288e3d9e327577f9ee",
+    "git_blob_sha": "e7b909976051b6a210ac8cebf8bb7a39cad15429",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-23.jpg",
+    "bytes": 666634,
+    "sha256": "924f48fe350a61b09d3223d2bd82ffc03bf4ef4472a85f170ccb0209bcde2963",
+    "git_blob_sha": "41a1f2cc0718e36a7788dc034e6dbf553d2f244b",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-24.jpg",
+    "bytes": 572591,
+    "sha256": "0138706c8e28996f69734810a061cf120c9d472ae26c120511827b4e83b98c6a",
+    "git_blob_sha": "660a6a308c1b36c7a50b489570a09e7dbcb9ff21",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-25.jpg",
+    "bytes": 465164,
+    "sha256": "55f990f22686b36a635fd45a6c7db0bc37f64d6421cbb469728410ab908f1331",
+    "git_blob_sha": "22168a330688bd19d3cc8c32cb1532cef9d52386",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/page-proofs/sheet-26.jpg",
+    "bytes": 177724,
+    "sha256": "c757320aa0636966fbbbf1f90d38fd5a03b621fabdd7918385608aac52763cd4",
+    "git_blob_sha": "863677f25220ee71dad930db2ab4df82023aa62f",
+    "reason": "大型校样与重复视觉输出；原始PDF、视觉记录和完整性清单保留"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/render.log",
+    "bytes": 156,
+    "sha256": "36c30c56f694ad86e3880de77971b6672bacb13e93470b5cc46aafd556fde3be",
+    "git_blob_sha": "9e37fc8621cfec44aede0332deff2dd8ef0b6019",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/windows-optional-fonts.log",
+    "bytes": 141,
+    "sha256": "fab5e35a87d66c3b94eaaf04a35dbf47c58e5cff6e0e7378437db6e335502a02",
+    "git_blob_sha": "95a37bca0e27dda4d72857d57e516e99f9dbe36d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "docs/validation/thesis-windows-fonts-43541893783-1/windows-transcript.log",
+    "bytes": 1861,
+    "sha256": "d29eb959b7a0c93d86763b17bbb95d0a8ddb6b75ffb5157fe899832f6673c2ed",
+    "git_blob_sha": "13b8d6273b8e9e74131f444ec9db192fc6d17d2d",
+    "reason": "环境、安装、运行、渲染及重复构建日志"
+  },
+  {
+    "path": "output/README.md",
+    "bytes": 2066,
+    "sha256": "c1b6cc066a08a916b546cd594a7ff79c985e3a2f3a336caca7dc03bca760d9f2",
+    "git_blob_sha": "4bde6bdd02c1b4189bcdb4df95cde1295359648c",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/backup/2026-09-03-before-template-align/云南工商学院毕业设计开题报告-赵灿-修改前.docx",
+    "bytes": 49074,
+    "sha256": "6f93774b5189e6b5f1f1d635ffff1a0af2c0a1da3a94ffcc77589e6c0863586d",
+    "git_blob_sha": "d5425717917d42d28e8bf9a82ac4524c86107274",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/backup/2026-09-03-before-template-align/云南工商学院毕业设计开题报告-赵灿-修改前.pdf",
+    "bytes": 267186,
+    "sha256": "a6af8e79f56989a827e606879e792ee62cce6ee3fb9572c85cdc504e20c63a4d",
+    "git_blob_sha": "8d0c5f9b4bdeb45eb00424ce6c18673496648f12",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/docx/云南工商学院毕业设计开题报告-赵灿-视觉校正版.docx",
+    "bytes": 45342,
+    "sha256": "9c1d0dff62b7bf29a66911975df5545eccc7560aab15de87553131b28e6c60ed",
+    "git_blob_sha": "5a4a7359903a82b7ffe9f21f68992352da73447a",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/3-1.pdf",
+    "bytes": 93641,
+    "sha256": "741f390213260cd9e7a10f40a4734e87e2125e439ca56b2caabb1aa45c580cd0",
+    "git_blob_sha": "d874045bb932d069ca6e759b9e186b72505794d8",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/3-2.pdf",
+    "bytes": 102775,
+    "sha256": "41092be9fc617360d9f2424048f7da1ef970795a9c7c8a25d749aa87baefc04c",
+    "git_blob_sha": "d44b30986a02d1b11398057d48a33e4610b2b8a8",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/3-3.pdf",
+    "bytes": 92906,
+    "sha256": "ad7e2bab4b13d5520ac2f61b8cef0929b9ba2cefbfc96f2ceafdaa37304572e4",
+    "git_blob_sha": "cc27e1a3eb5b74a8fb5d1f6fceee901d67504ca5",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/3-4.pdf",
+    "bytes": 42287,
+    "sha256": "af8820c46810ecac572746bb9f375aab59794f05d0371b6a97bd202ef69665e2",
+    "git_blob_sha": "9a0c44ba52b0d4e6ded94797cf7ad7f0eb06cb88",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/4-1.pdf",
+    "bytes": 68178,
+    "sha256": "c73320d146d7604b21f44507125a0dba39bded9fa368073a8ca9d1b920db8a9f",
+    "git_blob_sha": "692a20755e9909074eb7ff98c89a75d1d347d13c",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/4-2.pdf",
+    "bytes": 80095,
+    "sha256": "eba1a17b23e98470694b5794f4295b922a06da51b3eb1980e91017da258a5e20",
+    "git_blob_sha": "5ef264d73480a2dd81a3fe72fc1071174bbe7f72",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/4-3.pdf",
+    "bytes": 79050,
+    "sha256": "2c7e326dc31961aa03e1d673ebfb13d969ea2c99328b0236121053c8a9bda945",
+    "git_blob_sha": "0d87f73931dbc5408332f9d0cb350de28c1a5979",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/4-4.pdf",
+    "bytes": 78389,
+    "sha256": "e62d15aefc8264d5d6154e332671a55c21df1b2bee30cdbd8b438548d9a58f05",
+    "git_blob_sha": "8860d174e4cf6ff12d0850339e304e3a47245a9d",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/5-1.pdf",
+    "bytes": 79474,
+    "sha256": "3a12842df62f7626a9244bb4e42ec92dbc89a5cb54258ca6a4754ac9711c22e2",
+    "git_blob_sha": "08705f81de1de8b893fa68b2a1b7ae4f26ed9fa1",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/5-2.pdf",
+    "bytes": 67099,
+    "sha256": "ac28522d61bd0307da304e294e7f4adf7a0718df4cf8250ce43b270b467fadac",
+    "git_blob_sha": "382f2190c827832dba1410c1460a86deb0c2a549",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/5-3.pdf",
+    "bytes": 92176,
+    "sha256": "d4c6f43216e3f4785efe3017c8a988515b0559b4872521dfe5bf45b435240892",
+    "git_blob_sha": "00ea5fd4c38409bfc476871f161809ae6ae4d115",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/5-4.pdf",
+    "bytes": 89703,
+    "sha256": "59791b0846713c5a77284c25902d0ba8aa8f1b0ea04c2913c094ae30feea2302",
+    "git_blob_sha": "2275466d05dd3561bd1dda41d6cba3b470be04b0",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/5-5.pdf",
+    "bytes": 82517,
+    "sha256": "322ba89903b9a431530d7870c459c93304bdd5b2b9404f0ede4d853abc710431",
+    "git_blob_sha": "3e8decaffc00d1132c4eca6b80a5f7ed60dd726a",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/6-1.pdf",
+    "bytes": 200102,
+    "sha256": "91b6ccfbeb5c55557a3f16e50a005e7818d0106ba223d6f66426751de8a3de83",
+    "git_blob_sha": "92cd2b512d8940f3e7f815b3a238806b51f978ed",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/6-2.pdf",
+    "bytes": 190501,
+    "sha256": "9d5cdbf324e46b61ba08afb220e67ddb415234090ba15872e8c1f1effb2f41e5",
+    "git_blob_sha": "b7b5c3e18d347e0c71cdb7f832088c55e11b78c1",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/6-3.pdf",
+    "bytes": 228233,
+    "sha256": "7bcced28d6aed2943012b02b13453706d1f2d2da52fc37885adb7560099d9af8",
+    "git_blob_sha": "add2b5d03421ab5f90696360f6b702e07c1d766b",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/6-4.pdf",
+    "bytes": 199403,
+    "sha256": "8da93ef6d32c894657b7083678de26925baf6371a450cedbd5de524c370f3f53",
+    "git_blob_sha": "32abd7e20a612a6fee3b0a706369bfb22a16d170",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/6-5.pdf",
+    "bytes": 213825,
+    "sha256": "7038580c937f632f3d648c9be3e5d4bb08f80602f9c4485309d74f078a489266",
+    "git_blob_sha": "5aad67d516266f4a97f672253f7203759e3d2a83",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/6-6.pdf",
+    "bytes": 229587,
+    "sha256": "4ef792b7f03186a0b4999b445a37d72b729833e18b80ad9c132c3ae17d566d86",
+    "git_blob_sha": "9f1fc13ce10db7a5d7ea2a49eb069c0f4108b449",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/thesis-figures/图表A4校样.pdf",
+    "bytes": 1287118,
+    "sha256": "d289f2973ff2f6a2718d2960467f964f4361d531c843d05b01fca099c5323f12",
+    "git_blob_sha": "0ad506c7e492243aea469151f5cdf7eb18658da4",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/业务流程图.pdf",
+    "bytes": 235450,
+    "sha256": "61336da54eeb421be2da05f327791bee2f8867129356a48046226e5c8c1fb263",
+    "git_blob_sha": "888612477daea85b20d1671050b49a4be2893ddf",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/云南工商学院毕业设计开题报告-赵灿-视觉校正版.pdf",
+    "bytes": 323709,
+    "sha256": "63c2a326f4de716b39f31b4b45ea6023c975d5d27dd4dd2ceca43e35cad9f117",
+    "git_blob_sha": "9e91c4b3ccd4d7705b4b8fd7920bb58f3091c852",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/pdf/导师意见落实-图示校样-20261026.pdf",
+    "bytes": 249585,
+    "sha256": "d350425ab1dec86b5405d877e4a6db313e544f071f928e04fc3cec9ece560527",
+    "git_blob_sha": "d74ee360800c0cde52813eed8d941bf7d9a657d8",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/learning-delivery-20261112/毕业论文.docx",
+    "bytes": 4606899,
+    "sha256": "97cd5bceed97bb3cf3a962a7cc2602dbc947c0d5ad605255ae49801745af72a8",
+    "git_blob_sha": "165898026f456cf0fcbc125a4a574161d393b5db",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/learning-delivery-20261112/毕业论文.pdf",
+    "bytes": 6272776,
+    "sha256": "bf8411c66557886107a8196c146274826712875a3c4d9ad64ec1a107ec67b1b0",
+    "git_blob_sha": "97d1dc78e97ad04fd811587a05d9518274f85662",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-align-reference1-20261113/README.md",
+    "bytes": 731,
+    "sha256": "9f506bb54af55b78d5652791a021ab6a4617b960998d21a621cf8d27c98018cc",
+    "git_blob_sha": "7a2f06e619012f7d79c9e263ec3a90bae0369567",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-align-reference1-20261113/毕业论文.docx",
+    "bytes": 4192301,
+    "sha256": "c8e165fabc5c9ddfcbb562b4615a537ed59cbc05de1f735e04b5dc6019f7b003",
+    "git_blob_sha": "b9d0d74d339973679fb427d3820242de1a245b61",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-align-reference1-20261113/毕业论文.pdf",
+    "bytes": 6004563,
+    "sha256": "91eef74013cf2ad0dbd508753787ed74d5c974be40af4dc2873520ce532631d6",
+    "git_blob_sha": "2ee026217620c3298c70174039a439418ffb0ab2",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-audit-20261112/毕业论文.docx",
+    "bytes": 4613823,
+    "sha256": "a2f739ce4ac549258b1235e69464de76c98ae57942a5d598fad775c2c5fbb1ad",
+    "git_blob_sha": "8fb3b4dd8ffb6dafdcc772a0f25465b1d115349c",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-audit-20261112/毕业论文.pdf",
+    "bytes": 6322582,
+    "sha256": "5543b98af17abc4cd6a61d2c8a1e96391e522479fee7f207be5feb20a8591186",
+    "git_blob_sha": "90cf0dca3151b7274efe3c1d8d0b71c39a35dfa4",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-final-quality-20261113/README.md",
+    "bytes": 750,
+    "sha256": "0144ef3b424fdea6af740ceb88921dc231478ae3a3f756eaa96f3234f48c1527",
+    "git_blob_sha": "27da757338f560b09abd98a6b7142f0dab11963a",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-final-quality-20261113/毕业论文.docx",
+    "bytes": 4191985,
+    "sha256": "6bcfa8b69e824fb681da47f4e0b6ab5dfd21dd733aa19370e22d42b919dd3d16",
+    "git_blob_sha": "05dd3e1fbace00d2141059b64b8a0bcbaf3d78f1",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-final-quality-20261113/毕业论文.pdf",
+    "bytes": 6003267,
+    "sha256": "b35f570b33a0d030a95afe55ddf1b8ec0dd22e396af7fd204d5905ee8df32dce",
+    "git_blob_sha": "1ab45dc178040d6151b6f1f625ddcd9143485c9e",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-font-layout-20261113/README.md",
+    "bytes": 1066,
+    "sha256": "7907517249e745a8c484f81bf7d7646f9e61fa737a14565f69bc8f827018d0a8",
+    "git_blob_sha": "c545dc6eb1124109929c5a491ad55db61adea06a",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-font-layout-20261113/毕业论文-字体受限预览.pdf",
+    "bytes": 5733346,
+    "sha256": "1fc4e74ef8aadf76e609d48f55606225402e87e3bcb9ee7bceab4ed4fb7d1296",
+    "git_blob_sha": "80f3f1c61e8cfe199bb8de2d55a620bdc466eb15",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-font-layout-20261113/毕业论文.docx",
+    "bytes": 4213768,
+    "sha256": "b5d9b5e34a4c2bed48a428e8df3fac54eb6c29d3791ee1e306026eb07759ac0f",
+    "git_blob_sha": "c572846158b9bb377247631c17c86bc0e544dc6c",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-system-consistency-20261113/毕业论文.docx",
+    "bytes": 4193275,
+    "sha256": "15c2d682a96ec42ba9a1402e7ea15ee8385b4476df8acd96cd5ae496a86919ea",
+    "git_blob_sha": "8e2022c6848c5df9b102e96f2fb336f01c8aa09d",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/thesis/thesis-system-consistency-20261113/毕业论文.pdf",
+    "bytes": 6009049,
+    "sha256": "2a995c30e3b57cdd8d08f068ca9594f6969efc6389b55b2fb0b070ddca64c450",
+    "git_blob_sha": "77a3811f1228c9eb8283db699442477ae571f208",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/开题报告格式修改说明.md",
+    "bytes": 5789,
+    "sha256": "5e069bf6d1fa5fbbbed0649b4ba005166b2c11c2133b7846152532b3c1fa1598",
+    "git_blob_sha": "b4707bc30f889e251a0734dc1fdb550ef5132071",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  },
+  {
+    "path": "output/文献综述-系统粘贴版.txt",
+    "bytes": 8434,
+    "sha256": "83a5bc8be0670d698e2f5d586a0a7593b4aed85e7141769d62559187e04c9d57",
+    "git_blob_sha": "8e521e9d72cbc5f3500937d5fea4af456c808846",
+    "reason": "旧交付、备份、校样、自动化流程或与独立审查无关的仓库管理资料"
+  }
+]

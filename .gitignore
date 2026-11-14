@@ -1,0 +1,64 @@
+# ---------- 操作系统 ----------
+.DS_Store
+Thumbs.db
+*~
+__MACOSX/
+
+# ---------- IDE ----------
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# ---------- Java / Maven（server/，Windows 端） ----------
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# ---------- Node / Vite（web/，Windows 端） ----------
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+/web/coverage/
+/web/.vite/
+/web/.cache/
+
+# ---------- 日志与临时文件 ----------
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+/tmp/
+.~lock.*#
+.~*
+~$*
+*.swp
+*.swo
+
+# 本地交接压缩包/仓库 bundle 与图表转换中间目录，不影响已跟踪导出件和证据
+/output/handoff/
+/.chart-data-*/
+
+# ---------- 环境变量与密钥（禁止入库） ----------
+.env
+**/.env
+.env.*
+!.env.example
+!.env.*.example
+!.env.sample
+!.env.template
+
+# ---------- 错题图片本地上传目录 ----------
+server/uploads/
+
+# ---------- 参考文献原文 PDF（体积大，默认不入库；想入库则删除下一行） ----------
+docs/references/pdfs/*
+!docs/references/pdfs/.gitkeep
+
+# Rebuildable local tools configuration (no credentials)
+/.local/
